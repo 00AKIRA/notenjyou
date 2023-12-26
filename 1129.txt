@@ -1,8 +1,8 @@
 已【聯絡我們】者：
-【陳聖◎ 12/25 15:19】【詹東◎ 12/25 15:14】【陳麒◎ 12/25 15:12】【李奇◎ 12/25 15:11】【張晉◎ 12/25 15:05】【李忠◎ 12/25 15:03】【盧翊◎ 12/25 15:00】【蘇昱◎ 12/25 14:58】【石玉◎ 12/25 14:36】【江東◎ 12/25 14:31】【張晉◎ 12/25 14:25】【林華◎ 12/25 14:19】【伍俊◎ 12/25 14:16】【vivi_fan 12/25 14:12】【黃佳◎ 12/25 14:08】【卓晉◎ 12/25 14:03】【李清◎ 12/25 14:00】【yss19951112 12/25 13:49】【劉栗◎ 12/25 13:47】【潘冠◎ 12/25 13:41】資料僅保存最近更新的20筆
-Ｃ	品　名	2023/12/25 15:11 　紅-熱賣　綠-價格異動　藍-熱賣+價格異動　◆開箱討論　★參考圖片　	數 量	單 價	小 計	◆★
+【沈喬◎ 12/26 14:27】【pc-1 12/26 14:26】【丁方◎ 12/26 14:25】【詹智◎ 12/26 14:25】【黃士◎ 12/26 14:24】【詹智◎ 12/26 14:24】【larry171215 12/26 14:16】【葉筱◎ 12/26 14:09】【黃國◎ 12/26 14:00】【lkksh332000 12/26 14:00】【larry171215 12/26 14:00】【weiyaowang625 12/26 13:58】【楊宏◎ 12/26 13:50】【徐邦◎ 12/26 13:37】【吳齊◎ 12/26 13:31】【林禹◎ 12/26 13:26】【楊百◎ 12/26 13:26】【黃品◎ 12/26 13:24】【林小◎ 12/26 13:20】【鄧大◎ 12/26 12:59】資料僅保存最近更新的20筆
+Ｃ	品　名	2023/12/26 12:41 　紅-熱賣　綠-價格異動　藍-熱賣+價格異動　◆開箱討論　★參考圖片　	數 量	單 價	小 計	◆★
 1	品牌小主機、AIO｜VR虛擬	
-共有商品 123 樣，熱賣 11，圖片 119，討論 119，價格異動 8
+共有商品 126 樣，熱賣 11，圖片 125，討論 122，價格異動 8
 ASUS G35CA-1390KF173W i9-13900KF/32G/1TB SSD/WIN11/RTX3090, $76600 ◆ ★
 　　↪ 買G35CA-1390KF173W，送ROG Strix Scope Nx +ROG Gladius III Wireless Aimpoint
 ASUS G22CH-1370KF028W i7-13700KF/32G/1T+512G SSD/WIN11/RTX3070, $69900 ◆ ★
@@ -21,9 +21,9 @@ MSI Infinite S3 13【846TW】i5-13400F/16G/512GB SSD/RTX3050-8G/W11, $29900 ◆ 
 MSI Infinite S3 13NUD【883TW】i5-13400F/16G/1TB/4060Ti/WIN11, $43900 ◆ ★
 MSI Infinite S3 13【663TW】i5-13400F/16G/512G SSD/GTX 1650/WIN11, $25700 ◆ ★
 MSI Infinite S3 13【661TW】i5-13400F/16G/1T+512G/【RTX4060-8G】, $35900 ◆ ★ 熱賣
-MSI Infinite S3 13TH【846TW】i5-13400F/16G(8*2)/512G SSD/RTX 3050/WIN11, $29900
-MSI Infinite S3 13TH【661TW】i5-13400F/8G/512G SSD/【GTX1660S】, $25900 ◆
-MSI Infinite S3 13TH【1016TW】i5-13400F/16G(8*2)/512G SSD/RTX 4060/WIN11, $35900 ◆
+MSI Infinite S3 13TH【846TW】i5-13400F/16G(8*2)/512G SSD/RTX 3050/WIN11, $29900 ★
+MSI Infinite S3 13TH【661TW】i5-13400F/8G/512G SSD/【GTX1660S】, $25900 ◆ ★
+MSI Infinite S3 13TH【1016TW】i5-13400F/16G(8*2)/512G SSD/RTX 4060/WIN11, $35900 ◆ ★
 MSI Infinite X2 13FNUG【022TW】i7-13700KF/32G/2T+2T/W11P/RTX4080 訂, $99900 ◆ ★
 MSI Trident X2 14TH【268TW】i9-14900KF/32G/1TB SSD/RTX 4070TI /WIN1 PRO, $109900 ◆ ★
 MSI Trident X2 14TH【267TW】i9-14900KF/64G/2TB HDD+2TB SSD/RTX 4090/WIN1 PRO, $189900 ◆ ★
@@ -44,6 +44,7 @@ DELL Inspiron 3020T-R1308BTW I3-13100/8G/512G SSD/300W/WIN11, $13990 ◆ ★
 DELL Inspiron 3020T-R1608BTW I5-13400/8G/1T+256G SSD/300W/WIN11, $16990 ◆ ★
 DELL Inspiron 3020T-R2708BTW I7-13700/16G/512G SSD/300W/WIN11, $23990 ◆ ★
 DELL Vostro Small V3020S-R1308NTW I3-13100/8G/1T+256G/180W/WIN11 Pro, $16990 ◆ ★
+DELL Vostro Small V3020S-R1608NTW I5-13400/8G/1T+256G/180W/WIN11 Pro, $19990 ◆ ★
 DELL Vostro Tower V3020T-R1308STW I3-13100/8G/1T+256G/300W/WIN11 Pro, $16990 ◆ ★
 DELL Vostro Tower V3020T-R1508STW I5-13400/8G/1T+256G/300W/WIN11 Pro, $24500 ◆ ★
 DELL Vostro Tower V3020T-R3618STW I5-13400F/16G/1T+256G SSD【RTX3060】, $34990 ◆ ★
@@ -115,6 +116,7 @@ ASRock DeskMeet INTEL 架構 B660【準系統】(不含CPU/RAM/HDD) 適用12/13/
 ASRock DeskMini 4205 INTEL 架構【準系統】(不含RAM/HDD), $4390 ◆ ★
 　　↪ 買ASRock DeskMini 4205，加送 美光 8G DDR4 SO-DIMM 價值$499
 ASRock DeskMini＆DeskMeet intel 3168 WIFI+BT4.2(intel 3168) 無線模組, $550 ◆ ★
+ASRock DeskMini＆DeskMeet AX210 Wi-Fi 6E M.2 無線網卡 (M.2 2230), $1150 ◆ ★
 ASRock DeskMini USB2.0 二埠擴充線, $250 ◆ ★
 ASRock DeskMini VESA Mount 後背架, $230 ★
 ASRock DeskMini A300/X300 AMD 散熱器, $280 ◆ ★
@@ -125,6 +127,7 @@ ACER Aspire C C24-1700（DQ.BJWTA.001）i5-1235U/8G/512G/Win11, $19900 ◆ ★
 ACER Aspire S S27-1755（DQ.BLMTA.001）i5-1240P/16G/1TSSD/WIN11【粉】, $34900 ◆ ★
 　　↪ 買ACER Aspire S S27-1755 AIO，加送 Creative T60 藍牙喇叭 價值 $2490
 MSI Modern AM242 12M【253TW】23.8吋/I5-1240P/8G/512GB SSD/W11/白, $24500 ◆ ★
+MSI Modern AM242TP 12M【469TW】23.8吋/i5-1235U/8G/512G/WIN 11 PRO/白, $29900 ◆ ★
 MSI Modern AM242 12M【677TW】23.8吋/i5-1235U/8G/512G/WIN 11, $23400 ◆ ★
 MSI Modern AM242 12M【678TW】23.8吋/i3-1215U/8G/512G/WIN 11, $18650 ◆ ★
 MSI PRO AP272 13M【403TW】27吋/i5-13400/8G/512G SSD/WIN 11/黑, $28500 ◆ ★
@@ -175,7 +178,7 @@ ACER Iconia Tab M10 (香檳金 / 10.1吋 / 聯發科 M8183C 八核 / 4G / 64G / 
 　　↪ ACER Iconia Tab M10 內附 充電器、A to C 傳輸線、原廠透明保護殼
 ACER Iconia Tab P10 (鑄鐵灰 / 10.4吋 / 聯發科 M8183C 八核 / 6G / 128G / WIFI), $6580 ◆ ★
 　　↪ ACER Iconia Tab P10 內附 充電器、A to C 傳輸線、原廠皮質保護殼
-雷蛇RAZER Edge WIFI版 電競掌機RZ80-04610100-B3A1 (含 Kishi V2 Pro手把), $13900 ◆ ★ 熱賣
+雷蛇RAZER Edge WIFI版 電競掌機RZ80-04610100-B3A1 (含 Kishi V2 Pro手把), $13888 ◆ ★ 熱賣
 　　↪ 買 RAZER 電競掌機，送Razer Hello Kitty And Friends 滑鼠鼠墊組(RZ83-03850100-B3M1)
 　　↪ 買 RAZER 電競掌機，送Samsung EVO Plus MicroSDXC 512G U3 V30 A2(MB-MC512KA)
 【筆電搭購優惠】華碩 TUF gaming M4 Wireless 雙模無線滑鼠, $790 ★
@@ -226,9 +229,9 @@ Acer Aspire 5 i5-1335U/16G/512G/14吋 灰 A5SP14-51MTN-54K1 *觸控翻轉, $2690
 Acer Aspire 5 i3-1305U/8G/512G/15吋 灰 A515-58P-30EZ, $13900 ◆ ★ ↓酷幣500↓
 Acer Aspire 5 i5-1335U/8G/512G/15吋 灰 A515-58P-599T, $17900 ◆ ★
 Acer Aspire 5 i5-1235U/8G/512G/15吋 灰 A515-57-52NZ *送金士頓8G D4-3200, $17900 ◆ ★ 熱賣
-Acer Aspire 5 i5-1235U/8G/512G/15吋 金 A515-57-56MZ *送金士頓8G D4-3200, $17900 ◆ ★ 熱賣
+Acer Aspire 5 i5-1235U/8G/512G/15吋 金 A515-57-56MZ *展示機出清, $15900 ◆ ★
 Acer Aspire 5 i5-1335U/16G/512G/15吋 灰 A515-58M-50Z1, $22899↘$20900 ◆ ★
-Acer Aspire 5 i5-13420H/16G/512G/15吋 灰 A515-58M-59JV, $22900 ◆ ★
+Acer Aspire 5 i5-13420H/16G/512G/15吋 灰 A515-58M-59JV *活動中.請洽詢門市, $22900 ◆ ★ 熱賣
 Acer Aspire 5 i7-13620H/16G/512G/15吋 灰 A515-58M-74M4, $26900 ◆ ★
 Acer Aspire 5 i5-1335U/RTX2050/8G/512G/15吋 灰 A515-58GM-510J, $24999↘$22490 ◆ ★
 Acer Aspire 5 i5-1335U/16G/512G/17吋 灰 A517-58M-53V9, $24900↘$22900 ◆ ★
@@ -242,7 +245,7 @@ Acer Nitro 5 i5-12500H/RTX4060/16G/512G/15吋 黑 AN515-58-5427, $32900 ◆ ★
 Acer Nitro 5 i7-12700H/RTX4060/16G/512G/15吋 黑 AN515-58-79ZL, $39900 ◆ ★
 Acer Nitro 17 i7-13700H/RTX4050/16G/512G/17吋 黑 AN17-51-78WP, $42900 ◆ ★
 Acer Nitro 17 i7-13700H/RTX4060/16G/512G/17吋 黑 AN17-51-740P, $50900 ◆ ★
-Acer Predator Neo i5-13500HX/RTX4050/16G/512G/16吋 黑 PHN16-71-57LQ, $36650 ◆ ★
+Acer Predator Neo i5-13500HX/RTX4050/16G/512G/16吋 黑 PHN16-71-57LQ, $37900 ◆ ★
 Acer Predator Neo i7-13700HX/RTX4050/16G/512G/16吋 黑 PHN16-71-7121, $43900 ◆ ★
 Acer Predator Neo i5-13500HX/RTX4060/16G/512G/16吋 黑 PHN16-71-56ZU, $39900 ◆ ★
 Acer Predator Neo i7-13700HX/RTX4060/16G/512G/16吋 黑 PHN16-71-79C7, $50900↘$46900 ◆ ★
@@ -290,8 +293,8 @@ Lenovo IdeaPad 3 i7-1255U/8G/512G/15吋 藍 82RK0073TW *送HGST 500G HDD, $19990
 Lenovo IdeaPad 5 i5-12450H/16G/512G/16吋 灰 83BG003NTW, $20990↘$19850 ◆ ★
 Lenovo IdeaPad 5 i5-12450H/16G/512G/16吋 藍 83BG002NTW, $20990↘$19850 ◆ ★
 Lenovo IdeaPad 5 i5-1340P/16G/512G/16吋 灰 82XF001JTW, $22990↘$21990 ◆ ★
-Lenovo IdeaPad 5 i5-13500H/16G/512G/16吋 藍 82XF004DTW, $21990 ◆ ★
-Lenovo IdeaPad 5 i7-13700H/16G/512G/16吋 藍 82XF002MTW, $27990↘$25990 ◆ ★
+Lenovo IdeaPad 5 i5-13500H/16G/512G/16吋 藍 82XF004DTW, $22990 ◆ ★
+Lenovo IdeaPad 5 i7-13700H/16G/512G/16吋 藍 82XF002MTW, $27990↘$26990 ◆ ★
 Lenovo IdeaPad 5 Pro R7-6800HS/RTX3050/16G/512G/16吋 灰 82SN006CTW, $29990↘$25990 ◆ ★ 熱賣
 Lenovo IdeaPad 5 Pro R7-6800HS/RTX3050Ti/16G/512G/16吋 灰 82SN006DTW, $32990↘$27990 ◆ ★ 熱賣
 Lenovo IdeaPad Pro 5 i5-13500H/RTX3050/16G/512G/16吋 灰 83AQ001XTW, $36900 ◆ ★
@@ -327,9 +330,9 @@ Lenovo ThinkPad T16 i5-1240P/MX550/8G/512G/16吋 黑 21BV00G6TW, $41500↘$33900
 華碩 Zenbook R7-7840U/16G/512G/13吋 裸粉色 UM5302LA-0088D7840U 觸控/客訂, $36900 ◆ ★
 華碩 Zenbook R7-7840U/16G/512G/13吋 優雅白 UM5302LA-0179W7840U極輕薄/客訂, $35900 ◆ ★
 華碩 Zenbook R7-7840U/16G/512G/13吋 裸粉色 UM5302LA-0169D7840U極輕薄/客訂, $35900 ◆ ★
+華碩 Zenbook i5-1340P/16G/512G/14吋 白霧銀 UX3402VA-0072S1340P, $36900↘$33900 ◆ ★
 華碩 Zenbook i5-1340P/16G/512G/14吋 紳士藍 UX3402VA-0052B1340P, $36900↘$33900 ◆ ★
 華碩 Zenbook i7-1360P/16G/512G/14吋 紳士藍 UX3402VA-0082B1360P, $37900 ◆ ★
-華碩 Zenbook i5-1340P/16G/512G/14吋 白霧銀 UX3402VA-0072S1340P, $36900↘$33900 ◆ ★
 華碩 Zenbook Ultra 7-155H/32G/1T/14吋 紳士藍 UX3405MA-0202B155H首波AI筆電預購, $44900 ◆ ★
 Zenbook 14 OLED 早鳥購機，送「AI 線上課程」，用 AI 全面提升你的工作效率 1/14止, $1 ◆ ★
 華碩 Zenbook Pro i9-13900H/RTX4070/32G/1T/14吋 科技黑 UX6404VI-0022K13900H 訂, $79900 ◆ ★
@@ -346,6 +349,7 @@ Zenbook 14 OLED 早鳥購機，送「AI 線上課程」，用 AI 全面提升你
 華碩 Vivobook i5-12500H/16G/512G/14吋 中性灰 S3402ZA-0222G12500H 超值OLED, $24999 ◆ ★ 熱賣
 華碩 Vivobook i5-12500H/16G/512G/14吋 晨曦灰 S5402ZA-0098G12500H, $31111↘$25999 ◆ ★ 熱賣
 華碩 Vivobook i5-12500H/16G/512G/14吋 午夜黑 S5402ZA-0068K12500H, $31111↘$25999 ◆ ★
+華碩 VivoBook GO Pentium N6000/8G/512G/15吋 搖滾黑 X1500KA-0441KN6000 訂, $14900 ◆ ★
 華碩 VivoBook GO i3-N305/8G/256G/15吋 混成黑 E1504GA-0061KN305, $16900↘$14900 ◆ ★
 華碩 VivoBook GO R5-7520U/16G/512G/15吋 混成黑 E1504FA-0081K7520U, $23900↘$22900 ◆ ★
 華碩 VivoBook i5-1235U/8G/512G/15吋 午夜藍 X1502ZA-0021B1235U 免費升級內洽, $17999 ◆ ★ 熱賣
@@ -435,7 +439,7 @@ Zenbook 14 OLED 早鳥購機，送「AI 線上課程」，用 AI 全面提升你
 技嘉 AORUS 15 i7-13620H/RTX4060/16G/512G/15吋 黑 BKF-H3TW553SH, $42999 ◆ ★
 技嘉 AORUS 15 i7-13700H/RTX4060/16G/1T/15吋 黑 BKF-73TW754SH, $44900 ◆ ★ 熱賣
 技嘉 AORUS 15 i7-13700H/RTX4070/16G/1T/17吋 黑 BSF-73TW754SH, $49900 ◆ ★
-技嘉 AORUS 15X i9-13980HX/RTX4070/16G/1T/15吋 黑 ASF-D3TW754SP 全省會場價, $67900 ◆ ★ 熱賣
+技嘉 AORUS 15X i9-13980HX/RTX4070/16G/1T/15吋 黑 ASF-D3TW754SP全省會場價, $67900 ◆ ★ 熱賣
 技嘉 AORUS 16 i7-13700H/RTX4060/16G/1T/16吋 黑 BKF-73TW654SH 強勢回歸, $49900 ◆ ★
 技嘉 AERO 14 OLED i5-12500H/RTX4050/16G/1T/14吋 銀 9MF-E2TWBB4SH, $49900 ◆ ★
 　　↪ 技嘉 AERO 14 OLED機身左側Type-C為充電孔(僅限專屬變壓器使用)，不支援資料傳輸。
@@ -462,7 +466,7 @@ Zenbook 14 OLED 早鳥購機，送「AI 線上課程」，用 AI 全面提升你
 微星 Prestige i5-13500H/16G/1T/14吋 星空銀 14Evo B13M-285TW, $29500↘$27500 ◆ ★ 熱賣
 微星 Prestige i7-13700H/16G/1T/16吋 星空銀 16Evo A13M-246TW, $34500 ◆ ★
 微星 Prestige Ultra 7-155H/32G/1T/16吋 星辰灰 16 AI Evo B1MG-007TW 客訂, $43900 ◆ ★
-微星 Prestige Ultra 7-155H/RTX4060/16吋 星辰灰 16 AI Studio B1VFG-021TW預購月底, $59900 ◆ ★
+微星 Prestige Ultra 7-155H/RTX4060/16吋 星辰灰 16 AI Studio B1VFG-021TW 客訂, $59900 ◆ ★
 微星 Summit i7-1360P/16G/1T/13吋 星空黑 E13FlipEvo A13MT -204TW 翻轉觸控, $39500 ◆ ★ 熱賣
 ❤ 微星 Creator i9-12900H/RTX3080Ti/64G/2T/17吋 黑 Z17 A12UHST-001TW 客訂 ◆ ★
 微星 Stealth i7-13700H/RTX4050/16G/1T/14吋 純淨白 14Studio A13VE-073TW, $51900 ◆ ★
@@ -533,7 +537,6 @@ HP ZBook Firefly G10A R5 PRO-7640HS/16G/512G/14吋 灰 8U723PA, $25900 ◆ ★
 HP ZBook Firefly G10A R9 PRO-7940HS/32G/2T/14吋 灰 8U753PA, $42900 ◆ ★
 HP ZBook Firefly G10 i7-1370P/16G/1T/14吋 灰 84D88PA, $44900 ◆ ★
 ❤ 推薦用於2D和輕量級3D工作流程、攝影以及執行多個大型Office檔案。
-HP ZBook Firefly G10 i7-1360P/16G/512G/16吋 灰 84K51PA-4800 *展示機出清, $27900 ◆ ★
 HP ZBook Firefly G10 i7-1360P/16G/512G/16吋 灰 84K51PA-5200, $42900 ◆ ★
 ❤ 推薦用於中量級3D工作流程、1080P影像編輯以及燈光彩現、模擬和資料分析。
 HP ZBook Power G10 i7-13700H/A500/8G/512G/15吋 灰 8G3F9PA, $49900 ◆ ★ 熱賣
@@ -914,7 +917,7 @@ Intel【水舞】Intel I9-14900K【24核心】/B760/32G DDR5/1TB/750W/ARC A770 1
 9
 10
 4	處理器 CPU
-共有商品 80 樣，熱賣 26，圖片 78，討論 57，價格異動 4
+共有商品 80 樣，熱賣 26，圖片 80，討論 57，價格異動 4
 酷碼 MasterLiquid 240L Core ARGB 水冷/厚:5.2/S型雙腔冷頭/3年 任搭CPU,現省$300, $2190 ◆ ★
 酷碼 MasterLiquid 240L Core ARGB 白色版 水冷/S型雙腔冷頭 任搭CPU,現省$300, $2190 ◆ ★
 酷碼 MasterLiquid 360L Core ARGB 水冷/厚:5.2/S型雙腔冷頭/3年 任搭CPU,現省$300, $2490 ◆ ★
@@ -993,8 +996,8 @@ AMD 7800X3D盒【8大核/16緒】加碼送Montech Air Cooler 210 散熱器 (現�
 【搭7800X3D專案價】微星 B650 GAMING PLUS WIFI(須跟CPU在同一張發票開立), $4990 ★ 熱賣
 AMD R9 7900X3D盒【12大核/24緒】4.4G(↑5.6G)120W/140M 感恩十一月爆走價, $16950 ◆ ★ 熱賣
 AMD R9 7950X3D盒【全16大核/32緒】4.2G(↑5.7G)120W/144M/具RDNA內顯, $22950 ◆ ★
-AMD Ryzen TR 7960X盒【24核/48緒】4.2G(↑5.3G)350W/140M/7nm, $54700
-AMD Ryzen TR PRO 7965WX盒【24核/48緒】4.2G(↑5.3G)350W/140M/7nm, $87900
+AMD Ryzen TR 7960X盒【24核/48緒】4.2G(↑5.3G)350W/140M/7nm, $54700 ★
+AMD Ryzen TR PRO 7965WX盒【24核/48緒】4.2G(↑5.3G)350W/140M/7nm, $87900 ★
 AMD Ryzen TR PRO 5965WX盒【24核/48緒】3.8G(↑4.5G)280W/140M/7nm, $77770 ◆ ★
 AMD Ryzen TR PRO 5975WX盒【32核/64緒】3.6G(↑4.5G)280W/144M/7nm, $107770 ◆ ★
 AMD Ryzen TR PRO 5995WX盒【64核/128緒】2.7G(↑4.5G)280W/288M/7nm, $207770 ◆ ★
@@ -1009,7 +1012,7 @@ AMD Ryzen TR PRO 5995WX盒【64核/128緒】2.7G(↑4.5G)280W/288M/7nm, $207770 
 9
 10
 5	主機板 MB
-共有商品 309 樣，熱賣 36，圖片 308，討論 261，價格異動 21
+共有商品 307 樣，熱賣 36，圖片 308，討論 261，價格異動 21
 華碩 Tinker Fanless Aluminum Case 樹莓派鋁質機殼 (2/2S 不支援) *尾盤, $399 ◆ ★
 華碩 Tinker Open Case DIY Kit 樹莓派開放組裝套件(含風扇/散熱片/底板) *尾盤, $299 ◆ ★
 華碩 PRIME X299-A II(ATX/Intel 1Gb/WiFi+BT/M.2*3/註四年) 12相供電, $7490↘$4990 ◆ ★
@@ -1078,9 +1081,6 @@ AMD Ryzen TR PRO 5995WX盒【64核/128緒】2.7G(↑4.5G)280W/288M/7nm, $207770 
 【狂】技嘉 B760M DS3H AX DDR4 + Intel i5-13500【14核/20緒】12/31止, $11390 ★
 技嘉 B760M D3H DDR4(M-ATX/Intel 2.5Gb/註冊四年保)6+2+1相供電, $4990 ◆ ★ ↓任搭100↓
 技嘉 B760M GAMING X DDR4(M-ATX/Realtek 2.5Gb/註五年)8+1+1相供電*獨家款, $4790 ◆ ★ 熱賣
-技嘉 B760M GAMING X AX DDR4(M-ATX/Realtek 2.5Gb+無線/註五年)8+1+1相-尾盤, $4990 ◆ ★
-【狂】技嘉 B760M GAMING X AX DDR4 + Intel i5-13400【10核/16緒】12/31止, $11290 ★
-【狂】技嘉 B760M GAMING X AX DDR4 + Intel i5-13500【14核/20緒】12/31止, $11690 ★
 技嘉 B760 DS3H DDR4(ATX/Realtek 1Gb/註四年)8+2+1相, $4890 ◆ ★
 技嘉 B760 DS3H AX DDR4(ATX/Realtek 1Gb+無線/註四年)8+2+1相, $5390 ◆ ★
 技嘉 B760 GAMING X DDR4(ATX/Realtek 2.5Gb/註五年保)8+1+1相, $5190 ◆ ★ ↓任搭100↓
@@ -1090,6 +1090,7 @@ AMD Ryzen TR PRO 5995WX盒【64核/128緒】2.7G(↑4.5G)280W/288M/7nm, $207770 
 微星 B760M BOMBER DDR4(M-ATX/Realtek 2.5Gb/註四年/2DIMM)獨家.8相供電, $2890 ◆ ★ 熱賣 ↓任搭100↓
 微星 PRO B760M-E DDR4(M-ATX/Realtek 1Gb/註冊四年/2DIMM)6+1+1相供電, $2890 ◆ ★ ↓任搭100↓
 微星 PRO B760M-P DDR4(M-ATX/Realtek 1Gb/註冊四年)8相供電, $3690 ◆ ★
+　　↪ [耶誕]買微星PRO B760M-P DDR4送微星INTEL AX210NGW WI-FI6E真-內接無線網卡 ★
 微星 PRO B760M-A DDR4 II(M-ATX/Realtek 2.5Gb/註冊四年)14相電源, $4490 ◆ ★
 微星 PRO B760M-A WIFI DDR4(M-ATX/Realtek 2.5Gb+無線/註冊四年)14相供電, $4990 ◆ ★
 微星 PRO B760-P WIFI DDR4(ATX/Realtek 2.5Gb+Intel 無線/註冊四年)12+1+1相, $4990 ◆ ★
@@ -1146,10 +1147,12 @@ AMD Ryzen TR PRO 5995WX盒【64核/128緒】2.7G(↑4.5G)280W/288M/7nm, $207770 
 微星 PRO B760M-B(M-ATX/Realtek 2.5Gb/註冊四年/2DIMM)6+1相供電, $3090 ◆ ★ ↓任搭100↓
 微星 PRO B760M-G(M-ATX/Realtek 2.5Gb/註冊四年)8相供電, $3090 ◆ ★ ↓任搭100↓
 微星 PRO B760M-P(M-ATX/Realtek 1Gb/註冊四年)8相供電, $3690 ◆ ★
+　　↪ [耶誕]買微星 PRO B760M-P送微星INTEL AX210NGW WI-FI6E真.滿血-內接無線網卡
 微星 PRO B760M-A WIFI(M-ATX/Realtek 2.5Gb+無線/註冊四年)14相供電, $4990 ◆ ★
 微星 B760M BOMBER(M-ATX/Realtek 2.5Gb/註四年/2DIMM)8相供電, $2890 ◆ ★
 微星 B760M BOMBER WIFI(M-ATX/Realtek 2.5Gb+無線/註四年/2DIMM)6+1+1相, $3790 ◆ ★
 微星 B760M MORTAR(M-ATX/Realtek 2.5Gb/註冊五年保)12+1+1相供電-尾盤, $5490 ◆ ★
+　　↪ [耶誕]買微星B760M MORTAR送微星INTEL AX210NGW WI-FI6E真.滿血-內接無線網卡
 微星 B760M MORTAR II(M-ATX/Realtek 2.5Gb/註冊五年保)12+1+1相供電, $5490 ◆ ★
 微星 B760M MORTAR WIFI(M-ATX/Realtek 2.5Gb+無線/註冊五年保)12+1+1相供電, $5990 ◆ ★
 微星 B760M MORTAR WIFI II(M-ATX/Realtek 2.5Gb+無線/註冊五年保)12+1+1相供電, $5990 ◆ ★
@@ -1234,7 +1237,7 @@ NZXT N7 Z790(白)(ATX/Realtek2.5Gb+無線/五年換新保固)16+1+2相電源, $1
 微星 MEG Z790 ACE(E-ATX/2*Intel 2.5Gb+Intel 無線/註五年)24+1+2相 *最後機會, $18890 ◆ ★ ↓任搭100↓
 微星 MEG Z790 ACE MAX(E-ATX/2*Intel 2.5Gb+Wi-Fi 7/註五年)24+1+2相, $19890 ◆ ★ ↓任搭300↓
 微星 MEG Z790 GODLIKE(E-ATX/Marvell10G+Intel 2.5Gb+Intel無線/註五年)26+2相 *最後機會, $28890 ◆ ★ ↓任搭500↓
-微星 MEG Z790 GODLIKE MAX(E-ATX/Marvell10G+Intel 2.5Gb+Wi-Fi 7/註五年)26+2相, $29890 ◆ ↓任搭300↓
+微星 MEG Z790 GODLIKE MAX(E-ATX/Marvell10G+Intel 2.5Gb+Wi-Fi 7/註五年)26+2相, $29890 ◆ ★ ↓任搭300↓
 華擎 Z790M-ITX WiFi(Mini-ITX/Intel 2.5Gb+無線/註冊五年)7+1+1相電源.支援eDP, $7290 ◆ ★
 華擎 Z790 Lightning WiFi(ATX/Killer 2.5Gb+無線/註冊五年)16+1+1相.支援eDP, $6990 ◆ ★
 華擎 Z790 PG-ITX/TB4(Mini-ITX/Killer 2.5Gb+無線/註冊五年)10+1+1相電源, $10390 ◆ ★
@@ -1338,6 +1341,7 @@ NZXT N7 B650E(白)(ATX/Realtek2.5Gb+無線/五年換新保固)16+1+2相電源, $
 【限7800X3D專案價】華擎 X670E Pro RS (須跟CPU在同一張發票開立), $6990 ★
 華碩 Pro WS WRX80E-SAGE SE WIFI II(E-ATX/2*Intel 10G/無線/註四年/8DIMM), $37990 ◆ ★
 華擎 WRX80 Creator(E-ATX/2*Intel 10G/無線/註四年/8DIMM)8 電源相位設計, $31990 ◆ ★
+華碩 Pro WS TRX50-SAGE WIFI(CEB/Marvell 10Gb+Intel 2.5Gb+Wi-Fi 7/註四年)36相, $29990 ◆ ★
 技嘉 TRX50 AERO D(CEB/Marvell 10Gb+Realtek 2.5Gb+Wi-Fi 7/註五年)16+8+4相, $24990 ◆ ★
 1
 2
@@ -1907,14 +1911,14 @@ Seagate 8TB【那嘶狼 PRO】256M/7200轉/五年保/3年 Rescue(ST8000NT001)~�
 Seagate 10TB【那嘶狼 PRO】256M/7200轉/五年保/3年 Rescue(ST10000NT001)~送拖鞋~, $10500 ◆ ★
 Seagate 16TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST16000NE000)~送拖鞋~, $13500 ◆ ★
 Seagate 16TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST16000NT001)~送拖鞋~, $13500 ◆ ★
-Seagate 18TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST18000NE000)~送拖鞋~, $14200 ◆ ★
-Seagate 18TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST18000NT001)~送拖鞋~, $14200 ◆ ★
+Seagate 18TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST18000NE000)~送拖鞋~, $15300 ◆ ★
+Seagate 18TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST18000NT001)~送拖鞋~, $15300 ◆ ★
 Seagate 20TB【那嘶狼 PRO】256M/7200轉/五年/3年 Rescue(ST20000NT001)~送拖鞋~, $16500 ◆ ★
 Seagate 22TB【那嘶狼 PRO】512M/7200轉/五年/3年 Rescue(ST22000NT001)~送拖鞋~, $19990 ◆ ★
 WD 2TB【紅標Plus】64M/5400轉/三年保(WD20EFPX), $2880 ◆ ★
 WD 4TB【紅標Plus】256M/5400轉/三年保(WD40EFPX), $3850 ◆ ★
 WD 8TB【紅標Plus】128M/5640轉/三年保(WD80EFZZ), $6200 ◆ ★
-WD 10TB【紅標Plus】128M/5640轉/三年保(WD101EFBX), $7800 ◆ ★
+WD 10TB【紅標Plus】128M/5640轉/三年保(WD101EFBX), $7080 ◆ ★
 Toshiba 2TB【企業級】128MB/7200轉/五年保(MG04ACA200E), $4400 ◆ ★
 Toshiba 4TB【企業級】256MB/7200轉/五年保(MG08ADA400E), $5720 ◆ ★
 Toshiba 8TB【企業級】256MB/7200轉/五年保(MG08ADA800E), $7550↘$6888 ◆ ★
@@ -1955,9 +1959,9 @@ WD 1TB【黑標】(2.5吋/7200轉/64M/7mm/五年保)(WD10SPSX), $1990 ◆ ★
 9
 10
 9	外接硬碟｜隨身碟｜記憶卡	
-共有商品 152 樣，熱賣 40，圖片 152，討論 152，價格異動 10，限時下殺▼3
+共有商品 152 樣，熱賣 40，圖片 152，討論 152，價格異動 9，限時下殺▼3
 ❤ 【U3.0 = U3.1 Gen1 = U3.2 Gen1 = 5Gbps / U3.1 Gen2 = U3.2 Gen2 = 10Gbps】
-ASUS AS1000 外接PSSD 1TB Type-C讀取1050MB/s三年保.0800到府收送~抗摔/防塵/防水~, $2188 ◆ ★
+ASUS AS1000 外接PSSD 1TB Type-C讀取1050MB/s三年保.0800到府收送~抗摔/防塵/防水~, $2388 ◆ ★
 Micron Crucial X6 外接PSSD 500G Type-C傳輸速度 讀取540MB/s 三年保, $1280↘$1200 ◆ ★
 Micron Crucial X6 外接PSSD 1TB Type-C傳輸速度 讀取800MB/s 三年保, $1688 ◆ ★ 熱賣
 Micron Crucial X6 外接PSSD 2TB Type-C傳輸速度 讀取800MB/s 三年保, $3350↘$2999 ◆ ★
@@ -1969,7 +1973,7 @@ Micron Crucial X9 Pro 外接PSSD 2TB Type-C傳輸速度 讀取1050MB/s 五年保
 Micron Crucial X10 Pro 外接PSSD 1TB Type-C傳輸速度 讀取2100MB/s 五年保, $4150 ◆ ★
 Micron Crucial X10 Pro 外接PSSD 2TB Type-C傳輸速度 讀取2100MB/s 五年保, $6500 ◆ ★
 ❤ 【活動】買金士頓外接PSSD加碼送外接固態硬碟扣環橡膠套
-金士頓 XS1000 外接PSSD 1TB Type-C傳輸速度(附C TO A傳輸線)讀取1050MB/s 五年保▼下殺到 12/25 23:59, $2099↘$1849 ◆ ★ 熱賣
+金士頓 XS1000 外接PSSD 1TB Type-C傳輸速度(附C TO A傳輸線)讀取1050MB/s 五年保, $2099 ◆ ★ 熱賣
 金士頓 XS1000 外接PSSD 2TB Type-C傳輸速度(附C TO A傳輸線)讀取1050MB/s 五年保, $2990 ◆ ★
 SK 海力士 X31 外接PSSD 512G/Type C/讀:1050/寫:1000/DRAM快取(附C TO C線)(三年), $1599 ◆ ★
 SK 海力士 X31 外接PSSD 1TB/Type C/讀:1050/寫:1000/DRAM快取(附C TO C線)(三年), $2650 ◆ ★
@@ -2041,7 +2045,7 @@ Seagate FireCuda Gaming 2T霓彩極光Type-A外接RGB電競/三年保/三年救�
 創見 1TB(鐵灰) 25M3(Type-A/Slim/軍規/三年)(TS1TSJ25M3S), $1890 ◆ ★ 熱賣
 創見 1TB(紫) 25H3(Type-A/軍規/三年保)(TS1TSJ25H3P), $1890 ◆ ★
 創見 1TB(藍) 25H3(Type-A/軍規/三年保)(TS1TSJ25H3B), $1890 ◆ ★
-創見 2TB(紫) 25H3(Type-A/軍規/三年保)(TS2TSJ25H3P), $2340 ◆ ★
+創見 2TB(紫) 25H3(Type-A/軍規/三年保)(TS2TSJ25H3P)▼下殺到 1/2 23:59, $2340↘$2299 ◆ ★
 創見 2TB(藍) 25H3(Type-A/軍規/三年保)(TS2TSJ25H3B), $2340 ◆ ★
 創見 4TB(紫) 25H3(Type-A/軍規/三年保)(TS4TSJ25H3P), $3798 ◆ ★
 創見 4TB(鐵灰) 25M3(Type-A/軍規,單鍵備份, LCD燈/三年保)(TS4TSJ25M3S), $3688 ◆ ★ 熱賣
@@ -2067,19 +2071,19 @@ Seagate FireCuda Gaming 2T霓彩極光Type-A外接RGB電競/三年保/三年救�
 威剛 UV128 64G 藍 / USB3.2 G1 Type-A / 五年保, $125 ◆ ★
 威剛 UV128 128G 藍 / USB3.2 G1 Type-A / 五年保, $189 ◆ ★
 威剛 UV128 256G 藍 / USB3.2 G1 Type-A / 五年保, $456 ◆ ★
-創見 JF700 32G 拔蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS32GJF700), $185 ◆ ★
-創見 JF730 32G 拔蓋式 / 白色 / USB3.2 G1 Type-A / 五年保 (TS32GJF730), $185 ◆ ★
-創見 JF790K 32G 推蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS32GJF790K), $185 ◆ ★
-創見 JF790W 32G 推蓋式 / 白色 / USB3.2 G1 Type-A / 五年保 (TS32GJF790W), $185 ◆ ★
-創見 JF700 64G 拔蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS64GJF700), $210 ◆ ★
-創見 JF730 64G 拔蓋式 / 白色 / USB3.2 G1 Type-A / 五年保 (TS64GJF730), $210 ◆ ★
-創見 JF790K 64G 推蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS64GJF790K), $210 ◆ ★
+創見 JF700 32G 拔蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS32GJF700), $165 ◆ ★
+創見 JF730 32G 拔蓋式 / 白色 / USB3.2 G1 Type-A / 五年保 (TS32GJF730), $165 ◆ ★
+創見 JF790K 32G 推蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS32GJF790K), $165 ◆ ★
+創見 JF790W 32G 推蓋式 / 白色 / USB3.2 G1 Type-A / 五年保 (TS32GJF790W), $165 ◆ ★
+創見 JF700 64G 拔蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS64GJF700), $185 ◆ ★
+創見 JF730 64G 拔蓋式 / 白色 / USB3.2 G1 Type-A / 五年保 (TS64GJF730), $185 ◆ ★
+創見 JF790K 64G 推蓋式 / 黑色 / USB3.2 G1 Type-A / 五年保 (TS64GJF790K), $185 ◆ ★
 ❤ 【活動】買三星隨身碟、記憶卡就送7-11咖啡券
 三星 USB 64G 藍 / USB3.2 G1 Type-C / R:300 / 五年保 (MUF-64DA)送咖啡券, $429 ◆ ★ 熱賣
 三星 USB 128G 藍 / USB3.2 G1 Type-C / R:400 / 五年保 (MUF-128DA)送咖啡券, $699 ◆ ★ 熱賣
-創見JF790C 64G 推蓋式 / 黑色 / USB3.2 G1 Type-C / 五年保 (TS64GJF790C), $230 ◆ ★
-創見JF790C 128G 推蓋式 / 黑色 / USB3.2 G1 Type-C / 五年保 (TS128GJF790C), $320 ◆ ★
-創見JF790C 256G 推蓋式 / 黑色 / USB3.2 G1 Type-C / 五年保 (TS256GJF790C), $640 ◆ ★ 熱賣
+創見JF790C 64G 推蓋式 / 黑色 / USB3.2 G1 Type-C / 五年保 (TS64GJF790C), $219 ◆ ★
+創見JF790C 128G 推蓋式 / 黑色 / USB3.2 G1 Type-C / 五年保 (TS128GJF790C), $319 ◆ ★
+創見JF790C 256G 推蓋式 / 黑色 / USB3.2 G1 Type-C / 五年保 (TS256GJF790C), $619 ◆ ★ 熱賣
 ❤ 三星 Plus 記憶卡，不建議用於行車紀錄器及CCTV，監控攝影機或連續集中寫入裝置
 ❤ 【活動】買三星隨身碟、記憶卡就送7-11咖啡券
 三星 EVO Plus 64G micro SDXC / R:130 / 十年保 / 附轉卡 (MB-MC64KA)送咖啡券, $249 ◆ ★
@@ -2100,7 +2104,7 @@ Seagate FireCuda Gaming 2T霓彩極光Type-A外接RGB電競/三年保/三年救�
 金士頓 Canvas Select+ 128G micro SDXC / R:100 / 終保 / 附轉卡 (SDCS2/128GB), $219 ◆ ★
 金士頓 Canvas Go 128G micro SDXC / R:170 W:90 / 終保 / 附轉卡 (SDCG3/128GB), $349 ◆ ★
 金士頓 Canvas Go 256G micro SDXC / R:170 W:90 / 終保 / 附轉卡 (SDCG3/256GB), $565 ◆ ★
-金士頓 Canvas Go 512G micro SDXC / R:170 W:90 / 終保 / 附轉卡 (SDCG3/512GB), $1445↘$1390 ◆ ★
+金士頓 Canvas Go 512G micro SDXC / R:170 W:90 / 終保 / 附轉卡 (SDCG3/512GB), $1445 ◆ ★
 威剛 Premier 32G micro SDHC UHS-I class10 / R:80 / 終保 / 附轉卡, $99 ◆ ★
 威剛 Premier 64G micro SDXC UHS-I class10 / R:80 / 終保 / 附轉卡, $124 ◆ ★
 威剛 Premier 128G micro SDXC UHS-I A1 / R:100/終保/附轉卡, $220 ◆ ★
@@ -2294,7 +2298,7 @@ Scythe Thermal Elixer 2 導熱膏/5g/導熱係數 3.5W/mK(SCTE-2000), $190 ◆ �
 9
 10
 11	封閉式｜開放式水冷
-共有商品 171 樣，熱賣 13，圖片 169，討論 171，價格異動 12，限時下殺▼5
+共有商品 171 樣，熱賣 13，圖片 171，討論 171，價格異動 12，限時下殺▼5
 ❤ 【0800到府收送】品質有保證,保固內非人損漏液損害賠償！保固內非人損換新服務！
 ❤ 散熱器支援腳位:【W=115X/1200腳位,X=AM4腳位,H=AM5腳位,Y=TR4,Z=1700腳位】
 華碩 TUF GAMING LC II 240 ARGB /厚:5.2cm/外置靜音減震幫浦/6年【WXHZ】, $2990 ◆ ★
@@ -2361,8 +2365,8 @@ abee Apex Plus U360 水冷散熱器 /90度直角式鰭片/鋁製水冷頭/厚:5.
 Phanteks Glacier One 360MPH 水冷(黑) 磁吸式D-RGB外殼/炫彩風扇框/6年【WXYZ】, $6100 ◆ ★
 Phanteks Glacier One 360MPH 水冷(白) 磁吸式D-RGB外殼/炫彩風扇框/6年【WXYZ】, $6100 ◆ ★
 Phanteks Glacier One 240 T30 水冷 磁吸式D-RGB外殼/厚:6.8/T30效能扇/6年【WXYZ】, $4790 ◆ ★
-Phanteks Glacier One 360 D30 水冷(黑)/搭載D30 D-RGB卡扣風扇/厚:5.7/5年【WXYZ】, $5490 ◆
-Phanteks Glacier One 360 D30 水冷(白)/搭載D30 D-RGB卡扣風扇/厚:5.7/5年【WXYZ】, $5490 ◆
+Phanteks Glacier One 360 D30 水冷(黑)/搭載D30 D-RGB卡扣風扇/厚:5.7/5年【WXYZ】, $5490 ◆ ★
+Phanteks Glacier One 360 D30 水冷(白)/搭載D30 D-RGB卡扣風扇/厚:5.7/5年【WXYZ】, $5490 ◆ ★
 ❤ 散熱器支援腳位:【W=115X/1200腳位,X=AM4腳位,H=AM5腳位,Y=TR4,Z=1700腳位】
 ❤ 【購買散熱器,可免費索取 Intel 12代 1700 腳位扣具,已內含除外】
 喬思伯 TG-240 黑色版 /A.RGB/隱藏式理線/可旋轉LOGO/厚:5.2cm/3年【WXHZ】, $1990 ◆ ★
@@ -2509,7 +2513,7 @@ Apexgaming NANCOOL PRO 魔立方360 白/A.RGB冷頭+風扇/厚:5.2/3年保【WXH
 9
 10
 12	顯示卡VGA
-共有商品 246 樣，熱賣 40，圖片 246，討論 244，價格異動 38
+共有商品 245 樣，熱賣 39，圖片 245，討論 243，價格異動 38
 華碩 ROG Herculx 顯示卡支撐架(XH01)/氣泡水平儀/ARGB燈效/2年(機殼需配置電源倉), $1290 ◆ ★
 華碩 ROG Herculx EVA-02 限定版 顯示卡支撐架/氣泡水平儀/2年(機殼需配置電源倉), $1890 ◆ ★
 華碩 ROG STRIX 顯示卡支撐架 /可調整的支撐桿/ARGB燈效/1年保, $1290↘$1150 ◆ ★
@@ -2562,7 +2566,6 @@ ZOTAC GTX1630 4GB GDDR6(1785MHz/15.1cm/單風扇/註冊四年), $4290↘$2990 �
 華碩 DUAL-GTX1650-4GD6-P-EVO(1620MHz/21.2cm/雙風扇/註冊四), $4890 ◆ ★
 華碩 DUAL-GTX1650-O4GD6-P-EVO(1785MHz/21.2cm/雙風扇/註冊四), $4990 ◆ ★
 技嘉 GTX1650 D6 OC 4GB(1635MHz/17.2cm/單風扇/註冊四年), $4190 ◆ ★ 熱賣 ↓任搭200↓
-微星 GTX1650 D6 VENTUS XS OCV1(1620MHz/17.8cm/雙風扇/註冊四年)*尾盤, $4290 ◆ ★
 微星 GTX1650 D6 VENTUS XS OCV3(1620MHz/17.9cm/雙風扇/註冊四年), $4390 ◆ ★
 ZOTAC GTX1650 AMP Core GDDR6(1650MHz/16.3cm/雙風/註冊五年), $3990 ◆ ★ 熱賣
 INNO3D GTX1650 GDDR6 TWIN X2 OC V2(1635MHz/22cm/雙風/三年保), $4088 ◆ ★
@@ -2663,7 +2666,7 @@ INNO3D RTX4060Ti 16GB TWIN X2 OC WHITE(2595MHz/25cm/註四年/白-雙風扇), $1
 華碩 ROG-STRIX-RTX4070-O12G-GAMING(2640MHz/33.8cm/16Pin/三風扇/註五年), $24990 ◆ ★ ↓任搭100↓
 　　↪ [限時活動]12/31前買華碩ROG-RTX4070 送 PRIME 850W Gold 金牌電源(價值3990)
 技嘉 RTX4070 WINDFORCE OC 12G(2490MHz/26.1cm/8Pin/三風扇/四年), $19990 ◆ ★ ↓任搭100↓
-技嘉 RTX4070 EAGLE OC 12G(2505MHz/26.1cm/8Pin/註五年)三風扇C/P值之王, $19990 ◆ ★ 熱賣
+技嘉 RTX4070 EAGLE OC 12G(2505MHz/26.1cm/8Pin/註五年)三風扇C/P值之王, $19990 ◆ ★ 熱賣 ↓任搭200↓
 技嘉 RTX4070 EAGLE OC V2 12G(2505MHz/28.2cm/8Pin/三風扇/註五年), $20990 ◆ ★ ↓任搭100↓
 技嘉 RTX4070 GAMING OC 12G(2565MHz/30cm/16Pin電源/RGB三風扇/註五年), $22490 ◆ ★ ↓任搭500↓
 技嘉 RTX4070 AERO OC 12G(2565MHz/30cm/16Pin電源/三風扇/白色/註五年/), $23490 ◆ ★ ↓任搭100↓
@@ -2736,9 +2739,9 @@ NVIDIA RTX4080 Founders Edition創始版(2510MHz/30.4cm/保固三年/原廠卡),
 技嘉 RTX4080 16GB AERO OC(2535MHz/34.2cm/註冊五年)金屬背板造型設計, $47990↘$38890 ◆ ★ 熱賣 ↓任搭1000↓
 技嘉 AORUS RTX4080 16GB MASTER(2550MHz/35.7cm/註冊五年)創新LCD資訊面板, $38890 ◆ ★ ↓任搭500↓
 微星 RTX4080 16GB SUPRIM X(2640MHz/33.6cm/三風扇/註冊五年), $39900 ◆ ★
-ZOTAC RTX4080 16GB AMP Extreme AIRO(2565MHz/35.55cm)高階帝版~出手, $35990 ◆ ★ 熱賣
 ❤ [公告]NVIDIA RTX4090顯卡搭機出貨(需intel i7或AM5 R7以上主機並限購一片)敬請見諒
 ❤ [Game Bundle]1/9前-買四大品牌 RTX4060以上顯卡.送微軟 PC GAME PASS 三個月
+華碩 TUF-RTX4090-O24G-GAMING(2595MHz/34.82cm/註五年)軍用級電容-限搭機, $62990 ◆ ★
 華碩 ROG-STRIX-RTX4090-O24G-GAMING(2640MHz/35.76cm/註五年)軸向式風扇-限搭機, $63990 ◆ ★
 華碩 ROG-STRIX-RTX4090-24G-WHITE(2550MHz/35.76cm/註五年)軸向式風扇-限搭機, $65990 ◆ ★
 技嘉 RTX4090 WINDFORCE V2 24G(2520MHz/33.1cm/註冊四年/三風扇)-限搭機, $60990 ◆ ★
@@ -2767,7 +2770,7 @@ ZOTAC RTX4080 16GB AMP Extreme AIRO(2565MHz/35.55cm)高階帝版~出手, $35990 
 撼訊 AXRX 6500XT 4GBD6-DH/OC 競技版(2820MHz/19.1cm/三年保), $6290 ◆ ★
 華碩 DUAL-RX6600-8G-V2(2491MHz/24.3cm/雙風扇/註冊四年保), $6490↘$5990 ◆ ★ 熱賣
 撼訊 AXRX 6650XT 8GBD6-3DH 競技版(2635MHz/21.2cm/雙風扇/三年保), $6990 ◆ ★
-❤ [Gamebundle]12/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
+❤ [Gamebundle]1/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 華碩 DUAL-RX7600-O8G-V2(2715MHz/20.5cm/雙風扇/註四年), $8890 ◆ ★
 ❤ [Gamebundle]12/30前買技嘉 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 技嘉 Radeon RX7600 GAMING OC 8G(2755MHz/28.2cm/三風扇/註五年), $9290 ◆ ★
@@ -2775,23 +2778,23 @@ ACER 宏碁 Predator Radeon RX7600 8G(2655MHz/26.7cm/雙風扇/註三年), $8490
 ACER 宏碁 Predator Radeon RX7600 8G OC(2725MHz/26.7cm/雙風扇/註三年), $8990 ◆ ★
 撼訊 RX7600 8G-F 競技版(2655MHz/21.2cm/雙風扇/註三年), $8890 ◆ ★
 撼訊 RX7600 8G-L/OC 暗黑犬(2695MHz/23.4cm/雙風扇/註四年), $9290 ◆ ★
-❤ [Gamebundle]12/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
+❤ [Gamebundle]1/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 ❤ [Gamebundle]12/30前買華擎 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 華擎 RX7700XT Challenger 12G OC(2585MHz/26.6cm/雙風扇/註五年), $15790 ◆ ★
 撼訊 RX7700XT 12G-F/OC 競技版(2584MHz/30.3cm/三風扇/三年保), $15790 ◆ ★
 撼訊 RX7700XT 12G-L/OC 暗黑犬(2599MHz/33.2cm/三風扇/註四年), $16490 ◆ ★
-❤ [Gamebundle]12/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
+❤ [Gamebundle]1/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 ❤ [Gamebundle]12/30前買華擎 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 華擎 RX7800XT Steel Legend 16G OC(2520MHz/30.4cm/三風扇/註五年), $18990 ◆ ★ ↓任搭200↓
 撼訊 RX7800XT 16G-L/OC 暗黑犬(2520MHz/33.2cm/LED三風扇/四年保), $17990 ◆ ★
 撼訊 RX7800XT 16G-L/OC/WHITE 暗黑犬-白(2520MHz/33.2cm/LED三風扇/四年保), $18590 ◆ ★
 撼訊 RX7800XT 16G-E/OC 紅魔(2565MHz/34.5cm/三風扇/註五年), $19490 ◆ ★
 　　↪ [首批限量]購買撼訊 RX7800XT 紅魔(Red Devil)送 撼訊紅魔造型隨身碟(3 Fan)
-❤ [Gamebundle]12/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
+❤ [Gamebundle]1/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 華碩 TUF-RX7900XT-O20G-GAMING(2535MHz/35.29cm/註五年), $30990 ◆ ★ 熱賣
 ❤ [Gamebundle]12/30前買技嘉 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 技嘉 Radeon RX7900XT GAMING OC 20G(2535MHz/33.1cm/註五年), $30990 ◆ ★
-❤ [Gamebundle]12/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
+❤ [Gamebundle]1/30前買華碩 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 華碩 TUF-RX7900XTX-O24G-GAMING(2615MHz/35.29cm/註冊五年), $36490 ◆ ★ 熱賣
 ❤ [Gamebundle]12/30前買技嘉 Radeon RX7000系列顯卡.登錄送[阿凡達: 潘朵拉邊境]
 技嘉 RX7900XTX GAMING OC 24G(2525MHz/33.1cm/註冊五年), $36490 ◆ ★
@@ -2811,7 +2814,7 @@ ACER 宏碁 Predator Radeon RX7600 8G OC(2725MHz/26.7cm/雙風扇/註三年), $8
 9
 10
 13	螢幕｜投影機｜壁掛
-共有商品 530 樣，熱賣 128，圖片 529，討論 523，價格異動 121，限時下殺▼22
+共有商品 531 樣，熱賣 127，圖片 530，討論 524，價格異動 120，限時下殺▼20
 【主機搭購】BenQ GW2475H(1A2H/5ms/IPS/無喇叭)不閃屏.低藍光.護眼螢幕$2788↘, $2688 ◆ ★ 熱賣
 【主機搭購】BenQ BL2480(Plus) (1A1H1P/5ms/IPS/含喇叭)三介面文書.光智慧護眼 $2988↘, $2788 ◆ ★ 熱賣
 【主機搭購】BenQ BL2780(Plus)(1A1H1P/5ms/IPS/含喇叭)光智慧護眼螢幕 *尾盤 $3988↘, $3788 ◆ ★ 熱賣
@@ -2821,13 +2824,13 @@ ACER 宏碁 Predator Radeon RX7600 8G OC(2725MHz/26.7cm/雙風扇/註三年), $8
 【主機搭購】ACER ED273 B(1A2H/1ms/VA曲面/含喇叭/FreeSync)不閃屏.瀘藍光 $3888↘, $3450 ◆ ★
 【主機搭購】ACER XV272U RV(2H1P/0.5ms/IPS/144Hz/含喇叭/FreeSync Premium/HDR400) $7488↘, $6499 ◆ ★ 熱賣
 　　↪ ACER XV272U RV 清潔請使用眼鏡布、除塵滾輪清潔。詳情可洽詢ACER服務中心。
-【主機搭購】AOC 24B2H2(2H/4ms/IPS/100Hz/無喇叭/Adaptive Sync)抗閃機種 $2588↘, $2288 ◆ ★ 熱賣
+【主機搭購】AOC 24B2H2(2H/4ms/IPS/100Hz/無喇叭/Adaptive Sync)抗閃機種 $2588↘, $2280 ◆ ★ 熱賣
 【主機搭購】PHILIPS 221V8A(1A1H/4ms/VA/含喇叭/Adaptive-Sync)低藍光.無閃爍 $2088↘, $1988 ◆ ★
 【主機搭購】PHILIPS 272V8A(1A1H1P/4ms/IPS/含喇叭/Adaptive-Sync)舒適藍光.不閃屏*尾盤 $3288↘, $2988 ◆ ★
 【主機搭購】PHILIPS Evnia 27M1N5500Z4(2H2P/1ms/IPS/170Hz/無喇叭/FreeSync Premium/HDR400)▼下殺到 12/31 23:59, $7688↘$5688 ◆ ★ 熱賣
 【主機搭購】MSI PRO MP161商務隨身螢幕(15.6吋)(1920*1080 IPS)(600:1)(USB-C)$4990↘, $3990 ◆ ★
 【主機搭購】MSI MP2412(PRO/1H1P/1ms/VA/100Hz/無喇叭)抗閃機種.低藍光.防眩光 $2688↘, $2488 ◆ ★ 熱賣
-【主機搭購】MSI MP243X(PRO/1H1P/5ms/IPS/100Hz/含喇叭)低藍光.抗閃機種▼下殺到 12/25 23:59, $2788 ◆ ★
+【主機搭購】MSI MP243X(PRO/1H1P/5ms/IPS/100Hz/含喇叭)低藍光.抗閃機種 $3188↘, $2788 ◆ ★
 【主機搭購】MSI MP273A(PRO/1A1H1P/1ms/IPS/100Hz/含喇叭)低藍光.抗閃系列$3990↘, $3688 ◆ ★ 熱賣
 【主機搭購】MSI MP273AP(PRO/1A1H1P/1ms/IPS/100Hz/含喇叭)抗閃系列.可昇降.翻轉 $4290↘, $3988 ◆ ★ 熱賣
 【主機搭購】MSI G2422C(2H1P/1ms/VA曲面/180Hz/無喇叭/Adaptive Sync)曲面電競 $3690↘, $3500 ◆ ★ 熱賣
@@ -2915,7 +2918,7 @@ MSI MP2412(PRO/1H1P/1ms/VA/100Hz/無喇叭)抗閃機種.低藍光.防眩光【�
 MSI MP242C(PRO/1A1H/5ms/VA曲面/含喇叭)防閃屏技術.低藍光, $3488 ◆ ★
 MSI MP242A(PRO/1A1H1P/1ms/IPS/100Hz/含喇叭)抗閃機種.護眼機種, $3388↘$3288 ◆ ★
 MSI MP243(PRO/1H1P/5ms/IPS/含喇叭) 防閃屏技術.低藍光*尾盤出清 $3188↘, $2650 ◆ ★ 熱賣
-MSI MP243X(PRO/1H1P/5ms/IPS/100Hz/含喇叭)低藍光.抗閃機種【優惠洽門市】▼下殺到 12/25 23:59, $3188↘$2888 ◆ ★
+MSI MP243X(PRO/1H1P/5ms/IPS/100Hz/含喇叭)低藍光.抗閃機種【優惠洽門市】, $3188 ◆ ★
 　　↪ MSI MP243X 優惠參考主機搭購螢幕促銷專區.請洽門市業務
 MSI MP243XP(PRO/1H1P/5ms/IPS/100Hz/含喇叭)低藍光.可翻轉.抗閃機種, $3588↘$3488 ◆ ★
 MSI MD241PW(Modern/1H1C/5ms/IPS/含喇叭)美型.可調整高低.旋轉.白色 *尾盤, $3780 ◆ ★
@@ -2992,6 +2995,7 @@ ACER KA270 H(1A1H/1ms/VA/100Hz/含喇叭FreeSync)抗閃系列.窄邊框【優惠
 ACER KA272 E(bmix)(1A1H/1ms/IPS/100Hz/含喇叭/FreeSync)抗閃系列.VGA+HDMI, $2988 ◆ ★ 熱賣
 ACER EK271 E(1A1H/1ms/IPS/100Hz/無喇叭//FreeSync)抗閃系列 【少量】, $2999 ◆ ★
 ACER K273 E(1A1H/1ms/IPS/100Hz/含喇叭/FreeSync)抗閃系列.窄邊框, $3999 ◆ ★
+ACER RS272(1A1H/1ms/IPS/100Hz/含喇叭/FreeSync)抗閃系列.薄邊框, $3488 ◆ ★
 ACER R272 H(1A1H/1ms/VA/100Hz/含喇叭/FreeSync)抗閃系列.薄邊框, $3999 ◆ ★
 ACER SB272 E(1A1H/1ms/IPS/100Hz/FreeSync)不閃屏.低藍光, $3488 ◆ ★
 ACER QG270 S3(1H1P/1ms/VA/180Hz/無喇叭/FreeSync Premium)原生180Hz電競, $4288↘$3888 ◆ ★
@@ -3093,8 +3097,7 @@ BenQ BL2790QT(1H1P1C/5ms/IPS/含喇叭)雙向智慧降噪技術.人體工學支�
 BenQ GW2790QT(1H1P1C/5ms/IPS/含喇叭)雙向智慧降噪技術.人體工學支架.白色, $10800 ◆ ★ 熱賣
 【主機搭購】BenQ GW2790QT(1H1P1C/5ms/IPS/含喇叭)雙向智慧降噪技術.人體工學支架.白色, $9888 ◆ ★ 熱賣
 BenQ EW2780Q(2H1P/5ms/IPS/含喇叭/HDR400)類瞳孔護眼技術 (HDRi), $7288 ◆ ★
-BenQ MOBIUZ EX2710R(2H1P/1ms/VA曲面/165Hz/含喇叭/FreeSync Premium Pro)【優惠洽門市】▼下殺到 12/31 23:59, $8988↘$7988 ◆ ★ 熱賣
-　　↪ BenQ MOBIUZ EX2710R 優惠參考主機搭購螢幕促銷專區.請洽門市業務
+BenQ MOBIUZ EX2710R(2H1P/1ms/VA曲面/165Hz/含喇叭/FreeSync Premium Pro)▼下殺到 1/8 23:59, $8988↘$6988 ◆ ★ 熱賣
 BenQ MOBIUZ EX2710Q(2H1P/1ms/IPS/165Hz/含喇叭/FreeSync Premium/HDR400), $7988 ◆ ★ 熱賣
 BenQ MOBIUZ EX270QM(2H1P/1ms/IPS/240Hz/含喇叭/FreeSync Premium Pro/HDR600)HDMI 2.1.尾盤, $14888 ◆ ★
 　　↪ BenQ EX270QM獨家類瞳孔技術 (HDRi).Light Tuner遊戲調光器.快速IPS面板 98% P3廣色域
@@ -3163,6 +3166,7 @@ ViewSonic VP2756-2K(1H1P1C/5ms/IPS/含喇叭) Pantone認證.可旋轉.保無亮�
 華碩 PG27AQN(ROG/3H1P/1ms/IPS/360Hz/無喇叭/G-Sync/HDR600)超快速 IPS 技術, $27888 ◆ ★ 熱賣
 華碩 PA278QV(1D1H1P/5ms/IPS/含喇叭)人體工學支架.專業校色繪圖螢幕, $7988↘$7938 ◆ ★
 華碩 PA278CGV(2H1P1C/5ms/IPS/144Hz/含喇叭FreeSync Premium/HDR400)人體工學支架, $9900↘$9800 ◆ ★
+ACER VG270K L(2H1P/4ms/IPS/含喇叭/FreeSync/HDR 10)4K入門款式, $6999 ◆ ★
 ACER XV272K V3(2H1P/0.5ms/IPS/160Hz/含喇叭/FreeSync Premium/HDR400)HDMI 2.1, $16999 ★ 熱賣
 ACER XV272K LV(2H1P1C/0.5ms/IPS/160Hz/含喇叭/FreeSync Premium)HDMI 2.1 機種, $17999 ◆ ★
 ACER XV275K P3(2H1P1C/1ms/IPS/160Hz/無喇叭/FreeSync Premium/HDR1000)HDMI 2.1.MiniLED, $19999 ◆ ★
@@ -3204,7 +3208,7 @@ BenQ EW2880U(2H1P1C/5ms/IPS/含喇叭/FreeSync)類瞳孔.光智慧.護眼螢幕,
 Lenovo D32-40(1H1P/4ms/VA/無喇叭/FreeSync)低藍光.護眼.最優惠32吋機種, $3988 ◆ ★ 熱賣
 ACER ED320QR S3(2H1P/1ms/VA曲面/165Hz/含喇叭/FreeSync Premium), $5288↘$4999 ◆ ★
 ACER ED320Q X(2H1P/1ms/VA曲面/240Hz/含喇叭/Adaptive-Sync)低藍光【少量】, $5688 ◆ ★
-PHILIPS 322M8CP(2H1P/0.5ms/VA曲面/240Hz/無喇叭/FreeSync Premium)電競曲面螢幕*尾盤, $4888 ◆ ★
+PHILIPS 322M8CP(2H1P/0.5ms/VA曲面/240Hz/無喇叭/FreeSync Premium)電競曲面螢幕*尾盤, $5188 ◆ ★
 PHILIPS Evnia 32M1C5200W(2H1P/0.5ms/VA曲面/240Hz/無喇叭/Adaptive Sync)高刷電競曲面, $7688↘$6288 ◆ ★
 AOPEN 32HC5QR S(2H1P/1ms/VA曲面/165Hz/含喇叭/FreeSync Premium), $4999 ◆ ★
 LG 32MR50C-B(1A2H/5ms/VA曲面/100Hz/無喇叭/FreeSync), $4690 ◆ ★
@@ -3230,7 +3234,7 @@ MSI G322CQP(2H1P/1ms/VA曲面/170Hz/無喇叭/FreeSync Premium), $8990↘$7990 �
 MSI G321Q(2H1P/1ms/IPS/170Hz/無喇叭/G-SYNC兼容)電競機種, $10900↘$9999 ◆ ★
 MSI MAG 325CQRF-QD(2H1P1C/1ms/Rapid VA曲面/170Hz/無喇叭/FreeSync Premium)量子點, $10490 ◆ ★
 　　↪ 12/31前買MSI MAG 325CQRF-QD至官網登錄送異域龍潮PC遊戲序號+微星貼紙(兌換完提早結束)
-【Gamforce活動】MSI MPG321QRF-QD(2H1P1C/1ms/Rapid IPS/175Hz/無喇叭/G-Sync兼容/HDR600) $18900↘, $12900 ◆ ★
+MSI MPG321QRF-QD(2H1P1C/1ms/Rapid IPS/175Hz/無喇叭/G-Sync兼容/HDR600), $18900 ◆ ★
 LG 32GQ850-B(2H1P/1ms/Nano IPS/240Hz/無喇叭/FreeSync Premium Pro)HDMI 2.1*尾盤, $19900↘$18900 ◆ ★
 【搭購價】LG 32GQ850-B(2H1P/1ms/Nano IPS/240Hz/無喇叭/FreeSync Premium Pro)HDMI 2.1*尾盤, $18000 ◆ ★ 熱賣
 ViewSonic VA3209-2K-MHD(2H1P/4ms/IPS/含喇叭)窄邊框美型螢幕, $6950 ◆ ★
@@ -3434,7 +3438,6 @@ Raymii VADER LS61-M2 RGB (雙螢幕/穿夾兩用/氣壓式/)承載20KG/17-35吋/
 　　↪ 購買Raymii VADER系列加碼贈Raymii LSA6 螢幕桌面保護墊(黑)，價值$350
 銀欣 SST-ARM11BC單螢幕桌上型懸掛架/可調扭力式懸臂,多重性調整/黑.台製-尾盤, $1999 ◆ ★
 銀欣 SST-ARM11SC單螢幕桌上型懸掛架/可調扭力式懸臂,多重性調整/銀.台製-尾盤, $1999 ◆ ★
-銀欣 SST-ARM12B 單螢幕氣壓棒/穿夾兩用/最大支援36吋or12公斤.尾盤, $1499 ◆ ★ 熱賣
 銀欣 SST-ARM13 (單螢幕/機械彈簧設計/穿夾兩用/最大支援32吋or9公斤), $1990 ◆ ★
 銀欣 SST-ARM14 (單螢幕/氣壓彈簧設計/穿夾兩用/最大支援49吋or20公斤), $2990 ◆ ★
 銀欣 SST-ARM21B 雙螢幕氣壓棒/穿夾兩用.內附理線槽(黑)最大支援32吋 or 9公斤, $3990↘$2990 ◆ ★
@@ -3451,7 +3454,7 @@ Raymii VADER LS61-M2 RGB (雙螢幕/穿夾兩用/氣壓式/)承載20KG/17-35吋/
 9
 10
 14	CASE 機殼(+電源)
-共有商品 711 樣，熱賣 51，圖片 706，討論 711，價格異動 7，限時下殺▼1
+共有商品 712 樣，熱賣 52，圖片 712，討論 712，價格異動 7，限時下殺▼1
 Fractal Design Vector RS Dark TG /深色玻璃/顯卡長44/CPU高18.5/E-ATX 原價$6690, $3290 ◆ ★
 COUGAR Duoface RGB 黑 卡33/U高19/雙面板/Logo燈效/玻璃透側/E-ATX 原價$2490！, $1990 ◆ ★
 COUGAR Duoface RGB 白 卡33/U高19/雙面板/Logo燈效/玻璃透側/E-ATX 原價$2590！, $2090 ◆ ★
@@ -3819,7 +3822,7 @@ be quiet! SHADOW BASE 800DX 黑 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW61), 
 be quiet! SHADOW BASE 800DX 白 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW62), $5690 ◆ ★
 be quiet! SHADOW BASE 800FX 黑 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW63), $6590 ◆ ★
 be quiet! SHADOW BASE 800FX 白 顯卡長43/CPU高18/玻璃透側/E-ATX(BGW64), $6990 ◆ ★
-be quiet! DARK BASE 701 黑 顯卡長43/CPU高18.5/玻璃透側/支援反向配置/E-ATX, $7390 ◆
+be quiet! DARK BASE 701 黑 顯卡長43/CPU高18.5/玻璃透側/支援反向配置/E-ATX, $7390 ◆ ★
 be quiet! DARK BASE PRO 901 黑 顯卡長49.5/U高19/玻璃透側/觸控式面板/E-ATX, $10990 ◆ ★
 Phanteks Enthoo Evolv Shift 2 黑 顯卡33.5/U8.5/玻璃透側/ITX(ES217E_BK02)【SFX】, $3300 ◆ ★
 Phanteks Enthoo Evolv Shift 2 Air 黑 顯卡長33.5/U高8.5/ITX(ES217A_BK02)【SFX】, $3000 ◆ ★
@@ -3832,8 +3835,8 @@ Phanteks NV5 白 顯卡長44/CPU高18/全景玻璃透側/ATX(NV523TG_DMW01), $32
 Phanteks NV5 白 顯卡長44/U高18/全景玻璃透側/ATX + NV5 PREMIUM(白) 燈效套件, $5090 ◆ ★ 熱賣
 Phanteks NV7 黑 顯卡長45/CPU高18.5/全景玻璃透側/E-ATX(NV723TG_DBK01), $6790 ◆ ★
 Phanteks NV7 白 顯卡長45/CPU高18.5/全景玻璃透側/E-ATX(NV723TG_DMW01), $6790 ◆ ★
-Phanteks NV9 黑 顯卡長49/CPU高20.5/全景玻璃透側/E-ATX(NV923TG_DBK01), $7690 ◆
-Phanteks NV9 白 顯卡長49/CPU高20.5/全景玻璃透側/E-ATX(NV923TG_DMW01), $7690 ◆
+Phanteks NV9 黑 顯卡長49/CPU高20.5/全景玻璃透側/E-ATX(NV923TG_DBK01), $7690 ◆ ★
+Phanteks NV9 白 顯卡長49/CPU高20.5/全景玻璃透側/E-ATX(NV923TG_DMW01), $7690 ◆ ★
 Phanteks Eclipse P200A 黑 顯卡長35.5/U高16.5(7.2/9.2)/ITX(EC200AC_BK01), $1490 ◆ ★
 Phanteks Eclipse P200A DRGB 黑 /U高16.5(7.2/9.2)/玻璃透側/ITX(EC200ATG_DBK01), $2090 ◆ ★
 Phanteks Eclipse G300A 顯卡39/U高16.2/單風扇/玻璃透側/ATX(EC300GA_DBK01), $2000 ◆ ★
@@ -3885,8 +3888,8 @@ B-Team Lab BB1 銀 顯卡長30.5/U高9.9(7.9)/3M PCIe延長線/直立橫躺雙�
 賽德斯 VISHNU 毗濕奴 黑 顯卡長34/CPU高16/含ARGB 輪迴扇*4/玻璃透側/ATX, $1790 ◆ ★
 賽德斯 VISHNU 毗濕奴 白 顯卡長34/CPU高16/含ARGB 輪迴扇*4/玻璃透側/ATX, $1790 ◆ ★
 ❤ 喬思伯 JONSBO 機殼 (鋁合金第一/終身防鏽保固/玻璃破裂首次免費換新)
-喬思伯 C6 黑 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX, $1190 ◆
-喬思伯 C6 白 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX, $1190 ◆
+喬思伯 C6 黑 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX, $1190 ◆ ★
+喬思伯 C6 白 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX, $1190 ◆ ★
 喬思伯 C6 手提版 黑 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX, $1290 ◆ ★
 喬思伯 C6 手提版 白 顯卡長(20~25.5)/CPU高7.5/4面網孔/M-ATX, $1290 ◆ ★
 喬思伯 D31 Mesh 黑 顯卡長(33~40)/CPU高16.8/玻璃側板/M-ATX, $1990 ◆ ★
@@ -4156,6 +4159,8 @@ XPG INVADER X 白 卡40/U高17.5/全景玻璃/背插(限M-ATX)/PCIe 4.0線/ATX �
 曜越 Ceres 300 TG ARGB 黑 顯卡長37/CPU高18.5/玻璃透側/E-ATX, $2690 ◆ ★
 曜越 Ceres 300 TG ARGB 白 顯卡長37/CPU高18.5/玻璃透側/E-ATX, $2690 ◆ ★
 曜越 Ceres 300 TG ARGB 抹茶綠 顯卡長37/CPU高18.5/玻璃透側/E-ATX, $2990 ◆ ★
+曜越 Ceres 300 TG ARGB(抹茶綠)+曜越 TH280 V2 ARGB(抹茶綠)水冷散熱器 現省$700, $5680 ◆ ★ 熱賣
+　　↪ 買曜越 Ceres 300 TG ARGB+曜越 TH280 V2 ARGB水冷,送LCD液晶配件組 市價$3490
 曜越 Ceres 500 TG ARGB 黑 顯卡長42.5/CPU高18.5/玻璃透側/E-ATX, $4890 ◆ ★
 曜越 Ceres 500 TG ARGB 白 顯卡長42.5/CPU高18.5/玻璃透側/E-ATX, $4890 ◆ ★
 曜越 CTE C750 TG ARGB 黑 顯卡長42/CPU高19/三面進氣/雙艙設計/玻璃透側/E-ATX, $5590 ◆ ★
@@ -4197,7 +4202,7 @@ i-CoolTw 小珊瑚(黑) 顯卡長17/CPU高9/內附i-cool 400W電源【僅支援6
 9
 10
 15	電源供應器
-共有商品 360 樣，熱賣 21，圖片 360，討論 360，價格異動 49，限時下殺▼25
+共有商品 360 樣，熱賣 21，圖片 360，討論 360，價格異動 48，限時下殺▼24
 安耐美 金靜冰核 Revolution D.F. 650W /金牌/全模/全日系 【Gamforce特價】▼下殺到 1/15 20:00, $2590↘$1890 ◆ ★
 美洲獅 COUGAR GEX 750W 雙8/金牌/全模組/主日系/5年保▼下殺到 1/15 20:00, $3290↘$2590 ◆ ★
 美洲獅 COUGAR GEX 1050W 雙8/金牌/全模組/主日系/7年保 原價$5490！, $3990 ◆ ★
@@ -4277,7 +4282,7 @@ Montech 創世紀 CENTURY MINI 750W 雙8/金牌/全模組/全日系/7年保【SF
 海韻 PRIME TX-1000(1000W) 雙8/鈦金/全模組/12年保, $9790 ◆ ★
 海韻 PRIME TX-1300 ATX3.0(1300W) 雙8/鈦金/全模組/PCIe 5.0/12年保, $16490 ◆ ★
 海韻 PRIME TX-1600 ATX3.0(1600W) 雙8/鈦金/全模組/PCIe 5.0/12年保, $18490 ◆ ★
-海韻 VERTEX GX-850(850W) 雙8/金牌/全模組/ATX3.0(PCIe 5.0)/12年保▼下殺到 12/25 20:00, $5490↘$4990 ◆ ★ 熱賣
+海韻 VERTEX GX-850(850W) 雙8/金牌/全模組/ATX3.0(PCIe 5.0)/12年保, $5490 ◆ ★ 熱賣
 海韻 VERTEX GX-1000(1000W) 雙8/金牌/全模組/ATX3.0(PCIe 5.0)/12年保, $6490 ◆ ★
 海韻 VERTEX GX-1200(1200W) 雙8/金牌/全模組/ATX3.0(PCIe 5.0)/12年保, $7390 ◆ ★
 海韻 VERTEX GX-1200(1200W) 白色版 雙8/金牌/全模組/ATX3.0(PCIe 5.0)/12年保, $7590 ◆ ★
@@ -4598,7 +4603,7 @@ Fractal Design ION+ 2 660W 雙8/白金/全模/全日系/UltraFlex線材/10年, $
 9
 10
 16	機殼風扇｜機殼配件
-共有商品 317 樣，熱賣 11，圖片 313，討論 315，價格異動 6
+共有商品 317 樣，熱賣 11，圖片 315，討論 315，價格異動 6
 台達 AK-12B 12cm 效能扇 /SuperFlo軸承/2500RPM/減震襯墊/PWM/六年保, $790 ◆ ★ 熱賣
 Acer Predator Frostblade 120 風扇/HDB軸/1800RPM/ARGB/PWM/一年保, $390 ★
 安耐美 靜蝠 12cm 磁力滾珠軸承/長壽低噪音/可拆卸扇葉/定速型/小3Pin (UCTB12), $230 ◆ ★
@@ -4617,8 +4622,8 @@ MONTECH AX120 PWM 白 風扇/A.RGB/1600RPM/HDB軸/三年保, $330 ◆ ★
 MONTECH RX120 PWM 黑 反向扇/A.RGB/1600RPM/HDB軸/三年保, $299 ◆ ★
 MONTECH RX120 PWM 白 反向扇/A.RGB/1600RPM/HDB軸/三年保, $330 ◆ ★
 MONTECH AX140 PWM 黑 風扇/A.RGB/1600RPM/HDB軸/三年保, $490 ◆ ★
-MONTECH AX140 PWM 白 風扇/A.RGB/1600RPM/HDB軸/三年保, $490 ◆ ★
-MONTECH RX140 PWM 黑 反向扇/A.RGB/1600RPM/HDB軸/三年保, $520 ◆ ★
+MONTECH AX140 PWM 白 風扇/A.RGB/1600RPM/HDB軸/三年保, $520 ◆ ★
+MONTECH RX140 PWM 黑 反向扇/A.RGB/1600RPM/HDB軸/三年保, $490 ◆ ★
 MONTECH RX140 PWM 白 反向扇/A.RGB/1600RPM/HDB軸/三年保, $520 ◆ ★
 華碩 ROG STRIX XF120 電競風扇 /磁懸浮軸承/1800RPM/抗震襯墊/PWM/五年保, $790 ◆ ★
 華碩 ROG STRIX XF120 電競風扇 /磁懸浮軸承/1800RPM/PWM/五年 買二送一(共三個), $1580 ◆ ★ 熱賣
@@ -4852,8 +4857,8 @@ Mavoly A.RGB PWM 控制盒 1分6/(3Pin/5V)/SATA供電/含遙控器, $390 ◆ ★
 【5V燈條】威剛 XPG PRIME ARGB 燈條/60cm/二入/30顆5050LED/內含控制器/可串接, $890 ◆ ★
 【5V燈條】Phanteks NEON A.RGB 燈條/55cm/可串接(PH-NELEDKT-M5), $419 ◆ ★
 【5V燈條】Phanteks NEON A.RGB 燈條/40cm/二入/可串接(PH-NELEDKT-CMBO), $499 ◆ ★
-Phanteks NV5 PREMIUM(黑) 燈效套件 /NV5專用(PH-PLEDKT_NV5_DBK01), $1890 ◆
-Phanteks NV5 PREMIUM(白) 燈效套件 /NV5專用(PH-PLEDKT_NV5_DWT01), $1890 ◆
+Phanteks NV5 PREMIUM(黑) 燈效套件 /NV5專用(PH-PLEDKT_NV5_DBK01), $1890 ◆ ★
+Phanteks NV5 PREMIUM(白) 燈效套件 /NV5專用(PH-PLEDKT_NV5_DWT01), $1890 ◆ ★
 【發光線】聯力 Strimer 8Pin RGB 延長線/Aura Sync主板同步/3pin(5V), $390 ◆ ★
 【發光線】聯力 Strimer Plus V2 24Pin RGB 延長線/黑白整線扣/含控制器/3pin(5V), $1900 ◆ ★
 【發光線】聯力 Strimer Plus V2 8Pin RGB 延長線/黑白整線扣/3pin(5V), $1300 ◆ ★
@@ -4931,21 +4936,21 @@ BitFenix Alchemy 鋁製理線梳延長線(白) 套件包/24pin*1/8pin PCIe*2/6+2
 9
 10
 17	鍵盤+鼠｜搖桿｜桌+椅
-共有商品 631 樣，熱賣 378，圖片 627，討論 623，價格異動 45
+共有商品 631 樣，熱賣 379，圖片 631，討論 623，價格異動 46
 SteelSeries Apex Pro Mini Wireless 機械式鍵盤/2.4g-藍牙/英文/磁力軸2.0/Rgb/鋁合金〈限一批〉, $4990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X V2 機械式鍵盤/有線/GX青軸/Rgb/87鍵/中文, $2690 ◆ ★ 熱賣 ↓酷幣300↓
-櫻桃 Cherry Mx Board 3.0s Rgb 機械式鍵盤/黑色/紅軸/中文/櫻桃/Rgb/鋁製底殼/無鋼板/側刻, $3290↘$2590 ◆ ★ 熱賣 ↓酷幣200↓
-櫻桃 Cherry Mx Board 3.0s Rgb 機械式鍵盤/黑色/茶軸/中文/櫻桃/Rgb/鋁製底殼/無鋼板/側刻, $3290↘$2590 ◆ ★ 熱賣 ↓酷幣200↓
-櫻桃 Cherry Mx Board 3.0s Rgb 機械式鍵盤/黑色/青軸/中文/櫻桃/Rgb/鋁製底殼/無鋼板/側刻, $3290↘$2590 ◆ ★ 熱賣 ↓酷幣200↓
+羅技 G Pro X V2 機械式鍵盤/有線/GX青軸/Rgb/87鍵/中文, $2690 ◆ ★ 熱賣 ↓酷幣250↓
+櫻桃 Cherry Mx Board 3.0s Rgb 機械式鍵盤/黑色/紅軸/中文/櫻桃/Rgb/鋁製底殼/無鋼板/側刻, $3290↘$2590 ◆ ★ 熱賣
+櫻桃 Cherry Mx Board 3.0s Rgb 機械式鍵盤/黑色/茶軸/中文/櫻桃/Rgb/鋁製底殼/無鋼板/側刻, $3290↘$2590 ◆ ★ 熱賣
+櫻桃 Cherry Mx Board 3.0s Rgb 機械式鍵盤/黑色/青軸/中文/櫻桃/Rgb/鋁製底殼/無鋼板/側刻, $3290↘$2590 ◆ ★ 熱賣
 irocks K71M-Gateron 機械式鍵盤（白）/有線/Pbt/青軸/金屬旋鈕/中文/懸浮/Rgb, $2390 ◆ ★ 熱賣
 　　↪ 購買irocks K71M-Gateron 機械式鍵盤（白） 加碼贈Creative Pebble 桌上型喇叭-白 熱賣
 irocks K71M-Gateron 機械式鍵盤（白）/有線/Pbt/茶軸/金屬旋鈕/中文/懸浮/Rgb, $2390 ◆ ★ 熱賣
 　　↪ 購買irocks K71M-Gateron 機械式鍵盤（白） 加碼贈Creative Pebble 桌上型喇叭-白 熱賣
 irocks K71M-Gateron 機械式鍵盤（白）/有線/Pbt/紅軸/金屬旋鈕/中文/懸浮/Rgb, $2390 ◆ ★ 熱賣
 　　↪ 購買irocks K71M-Gateron 機械式鍵盤（白） 加碼贈Creative Pebble 桌上型喇叭-白 熱賣
-櫻桃 Cherry Mx Board 2.0s 機械式鍵盤/有線/黑色/青軸/中文/櫻桃（價格優質）, $1690 ◆ ★ 熱賣 ↓酷幣100↓
-櫻桃 Cherry Mx Board 2.0s 機械式鍵盤/有線/黑色/茶軸/中文/櫻桃（價格優質）, $1690 ◆ ★ 熱賣 ↓酷幣100↓
-櫻桃 Cherry Mx Board 2.0s 機械式鍵盤/有線/黑色/紅軸/中文/櫻桃（價格優質）, $1690 ◆ ★ 熱賣 ↓酷幣100↓
+櫻桃 Cherry Mx Board 2.0s 機械式鍵盤/有線/黑色/青軸/中文/櫻桃（價格優質）, $1690 ◆ ★ 熱賣
+櫻桃 Cherry Mx Board 2.0s 機械式鍵盤/有線/黑色/茶軸/中文/櫻桃（價格優質）, $1690 ◆ ★ 熱賣
+櫻桃 Cherry Mx Board 2.0s 機械式鍵盤/有線/黑色/紅軸/中文/櫻桃（價格優質）, $1690 ◆ ★ 熱賣
 亞碩(Power Master)超優質組合套餐（Km-11天蠍座+G502 滑鼠鼠墊組）原價1980, $1190 ◆ ★ 熱賣
 微星汰舊換新組合包（Gk30鍵盤+Gm08滑鼠+Gd21鼠墊）原價2537贈華納威秀電影票一張價值300, $1690 ◆ ★ 熱賣
 威剛XPG粉色系組合包（Slingshot 滑鼠+Precog S耳機+Battleground L鼠墊）原價3170, $1990 ◆ ★ 熱賣
@@ -5144,20 +5149,20 @@ b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一
 羅技 MK295 靜音鍵鼠組（石墨黑）/無線/多媒體按鍵/靜音, $990 ◆ ★
 羅技 MK295 靜音鍵鼠組（珍珠白）/無線/多媒體按鍵/靜音, $990 ◆ ★
 〈套裝優惠價〉羅技 MK295 靜音鍵鼠組（石墨黑）/無線/多媒體按鍵/靜音, $799 ★ 熱賣
-羅技 Mk330r 鍵鼠組/無線/多媒體鍵/防濺灑/Nano接受器, $1090 ◆ ★ ↓酷幣100↓
+羅技 Mk330r 鍵鼠組/無線/多媒體鍵/防濺灑/Nano接受器, $1090 ◆ ★
 羅技 Mk345 鍵鼠組/無線/多媒體鍵/2.4 GHz 無線連線技術, $1290↘$1190 ◆ ★
-羅技 Mk470 無線鍵鼠組（珍珠白）/無線/靜音/超薄/Nano接受器, $1590 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Mk470 無線鍵鼠組（石墨灰）/無線/靜音/超薄/Nano接受器, $1590 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Mk470 無線鍵鼠組（玫瑰粉）/無線/靜音/超薄/Nano接受器, $1590 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Mk545 鍵鼠組（雷射）/無線/Unifying接收器, $1790 ◆ ★ ↓酷幣100↓
-羅技 Mk850 鍵鼠組/無線/藍牙/Unifying/Easy-Switch技術/Duolink軟體, $2990 ◆ ★ ↓酷幣200↓
+羅技 Mk470 無線鍵鼠組（珍珠白）/無線/靜音/超薄/Nano接受器, $1590 ◆ ★ 熱賣
+羅技 Mk470 無線鍵鼠組（石墨灰）/無線/靜音/超薄/Nano接受器, $1590 ◆ ★ 熱賣
+羅技 Mk470 無線鍵鼠組（玫瑰粉）/無線/靜音/超薄/Nano接受器, $1590 ◆ ★ 熱賣
+羅技 Mk545 鍵鼠組（雷射）/無線/Unifying接收器, $1790 ◆ ★
+羅技 Mk850 鍵鼠組/無線/藍牙/Unifying/Easy-Switch技術/Duolink軟體, $2990 ◆ ★
 羅技 Pebble 2 Combo 無線藍牙鍵鼠組（石墨灰）（K380S鍵盤+M350S滑鼠）, $1790 ◆ ★ 熱賣
 羅技 Pebble 2 Combo 無線藍牙鍵鼠組（珍珠白）（K380S鍵盤+M350S滑鼠）, $1790 ◆ ★ 熱賣
 羅技 Pebble 2 Combo 無線藍牙鍵鼠組（天空藍）（K380S鍵盤+M350S滑鼠）, $1790 ◆ ★ 熱賣
-羅技 MX Keys S 無線智能鍵盤滑鼠組（石墨灰）（MX Keys S 鍵盤+ MX Master 3S 滑鼠）＜限網單＞, $6990 ◆ ★ 熱賣 ↓酷幣200↓
+羅技 MX Keys S 無線智能鍵盤滑鼠組（石墨灰）（MX Keys S 鍵盤+ MX Master 3S 滑鼠）＜限網單＞, $6990 ◆ ★ 熱賣 ↓酷幣250↓
 羅技 K120 Usb 鍵盤/有線/防濺灑設計, $329 ◆ ★
 羅技 K270 多媒體鍵盤/無線/2.4GHz Unifying接收器, $649 ◆ ★ ↓酷幣19↓
-羅技 K380 跨平台藍牙鍵盤（珍珠白）/無線/支援Android/iOS, $990 ◆ ★ ↓酷幣110↓
+羅技 K380 跨平台藍牙鍵盤（珍珠白）/無線/支援Android/iOS, $990 ◆ ★
 羅技 K380 跨平台藍牙鍵盤（玫瑰粉）/無線/支援Android/iOS, $990 ◆ ★
 羅技 K380 跨平台藍牙鍵盤（星暮紫）/無線/支援Android/iOS, $990 ◆ ★
 羅技 K380s 跨平台藍牙鍵盤（石墨灰）/無線（接受器另購）+藍牙/續行提升, $1090 ◆ ★ 熱賣
@@ -5169,43 +5174,43 @@ b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一
 羅技 Pop Keys 無線機械式鍵盤（酷玩黃）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $1990 ◆ ★ 熱賣
 羅技 Pop Keys 無線機械式鍵盤（魅力桃）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $1990 ◆ ★ 熱賣
 羅技 Pop Keys 無線機械式鍵盤（夢幻紫）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $1990 ◆ ★ 熱賣
-羅技 Pop Keys 無線機械式鍵盤（星暮紫）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $2490 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Pop Keys 無線機械式鍵盤（迷霧灰）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $2490 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Wave Keys（石墨灰）人體工學鍵盤/無線+藍牙/一體成形手托/智能啟動功能, $2490 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Wave Keys（珍珠白）人體工學鍵盤/無線+藍牙/一體成形手托/智能啟動功能, $2490 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Keys S 無線智能鍵盤/藍牙Usb-C充電/自訂智能背光設定/快捷鍵/石墨灰, $3690 ◆ ★ ↓酷幣200↓
-羅技 MX Keys S 無線智能鍵盤/藍牙Usb-C充電/自訂智能背光設定/快捷鍵/珍珠白, $3690 ◆ ★ ↓酷幣200↓
-羅技 MX Keys S 無線智能鍵盤+羅技 MX Anywhere 3S〈組合優惠〉原價6980, $6290 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Keys Mini 無線鍵盤（石墨灰）/藍牙/Usb-C充電/鍵盤背光, $3390 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Keys Mini 無線鍵盤（珍珠白）/藍牙/Usb-C充電/鍵盤背光, $3390 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Keys Mini 無線鍵盤（玫瑰粉）/藍牙/Usb-C充電/鍵盤背光, $3390 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Mechanical Mini 無線智能機械式鍵盤/藍牙-無線BOLT接收器/茶軸/中文, $4090 ◆ ★ ↓酷幣200↓
-羅技 MX Mechanical 無線智能機械式鍵盤/藍牙-無線BOLT接收器/茶軸/中文, $4590 ◆ ★ ↓酷幣200↓
+羅技 Pop Keys 無線機械式鍵盤（星暮紫）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $2490 ◆ ★ 熱賣
+羅技 Pop Keys 無線機械式鍵盤（迷霧灰）/無線/EMOJI按鍵/中文/茶軸/打字機鍵帽, $2490 ◆ ★ 熱賣
+羅技 Wave Keys（石墨灰）人體工學鍵盤/無線+藍牙/一體成形手托/智能啟動功能, $2490 ◆ ★ 熱賣
+羅技 Wave Keys（珍珠白）人體工學鍵盤/無線+藍牙/一體成形手托/智能啟動功能, $2490 ◆ ★ 熱賣
+羅技 MX Keys S 無線智能鍵盤/藍牙Usb-C充電/自訂智能背光設定/快捷鍵/石墨灰, $3690 ◆ ★ ↓酷幣250↓
+羅技 MX Keys S 無線智能鍵盤/藍牙Usb-C充電/自訂智能背光設定/快捷鍵/珍珠白, $3690 ◆ ★ ↓酷幣250↓
+羅技 MX Keys S 無線智能鍵盤+羅技 MX Anywhere 3S〈組合優惠〉原價6980, $6290 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 MX Keys Mini 無線鍵盤（石墨灰）/藍牙/Usb-C充電/鍵盤背光, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 MX Keys Mini 無線鍵盤（珍珠白）/藍牙/Usb-C充電/鍵盤背光, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 MX Keys Mini 無線鍵盤（玫瑰粉）/藍牙/Usb-C充電/鍵盤背光, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 MX Mechanical Mini 無線智能機械式鍵盤/藍牙-無線BOLT接收器/茶軸/中文, $4090 ◆ ★ ↓酷幣250↓
+羅技 MX Mechanical 無線智能機械式鍵盤/藍牙-無線BOLT接收器/茶軸/中文, $4590 ◆ ★ ↓酷幣250↓
 羅技 G213 Prodigy Rgb 遊戲鍵盤/有線/RGB/中文, $1190 ◆ ★ 熱賣
 羅技 K650 無線舒適鍵盤（石墨灰）/低緩衝鍵帽設計/一體成型手托/防潑水/快捷鍵, $1490 ◆ ★ ↓酷幣40↓
 羅技 K650 無線舒適鍵盤（珍珠白）/低緩衝鍵帽設計/一體成型手托/防潑水/快捷鍵, $1490 ◆ ★ ↓酷幣40↓
-羅技 G413 Se 機械式鍵盤/有線/茶軸/白光/鋁合金上蓋/Pbt/中文, $1990 ◆ ★ ↓酷幣100↓
-羅技 G512 機械式鍵盤/有線/GX青軸（敲擊）/Rgb/中文, $2390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G512 機械式鍵盤/有線/GX茶軸（觸感）/Rgb/中文, $2390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G512 機械式鍵盤/有線/GX紅軸（線性）/Rgb/中文, $2390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G Pro X V2 機械式鍵盤/有線/GX青軸/Rgb/87鍵/中文, $2690 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Tkl 無線三模機械式鍵盤（黑）/有線+Lightspeed 2.4G+藍牙/中文/茶軸/Rgb, $5990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Tkl 無線三模機械式鍵盤（白）/有線+Lightspeed 2.4G+藍牙/中文/茶軸/Rgb, $5990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Tkl 無線三模機械式鍵盤（桃色）/有線+Lightspeed 2.4G+藍牙/中文/茶軸/Rgb, $5990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G713 Tkl 美型炫光機械式鍵盤/有線/中文/紅軸/Rgb/附手托, $3290↘$2990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G713 Tkl 美型炫光機械式鍵盤/有線/中文/茶軸/Rgb/附手托, $3290↘$2990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G715 Tkl 無線美型炫光機械式鍵盤/無線-藍牙/中文/紅軸/Rgb/附手托, $3690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G715 Tkl 無線美型炫光機械式鍵盤/無線-藍牙/中文/茶軸/Rgb/附手托, $3690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G813 機械式遊戲鍵盤/有線/矮軸GL青軸/RGB, $3990↘$3390 ◆ ★ ↓酷幣100↓
-羅技 G813 機械式遊戲鍵盤/有線/矮軸GL茶軸/RGB, $3990↘$3390 ◆ ★ ↓酷幣100↓
-羅技 G813 機械式遊戲鍵盤/有線/矮軸GL紅軸/RGB, $3990↘$3390 ◆ ★ ↓酷幣100↓
-羅技 G913 Tkl 無線機械式鍵盤/無線+藍牙/鋁合金/青軸【敲擊Clicky】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G913 Tkl 無線機械式鍵盤/無線+藍牙/鋁合金/紅軸【線性Linear】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G913 Tkl 無線機械式鍵盤/無線+藍牙/鋁合金/茶軸【觸感Tactile】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G913 無線機械式鍵盤/無線+藍牙/鋁合金/青軸【敲擊Clicky】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G913 無線機械式鍵盤/無線+藍牙/鋁合金/紅軸【線性Linear】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G913 無線機械式鍵盤/無線+藍牙/鋁合金/茶軸【觸感Tactile】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4990 ◆ ★ 熱賣 ↓酷幣100↓
-10/2-12/31購買羅技全品項滿990以上 上傳發票到登錄網頁且登錄成功，即可參加抽獎, $1 ◆ ★ 熱賣
+羅技 G413 Se 機械式鍵盤/有線/茶軸/白光/鋁合金上蓋/Pbt/中文, $1990 ◆ ★
+羅技 G512 機械式鍵盤/有線/GX青軸（敲擊）/Rgb/中文, $2390 ◆ ★ 熱賣
+羅技 G512 機械式鍵盤/有線/GX茶軸（觸感）/Rgb/中文, $2390 ◆ ★ 熱賣
+羅技 G512 機械式鍵盤/有線/GX紅軸（線性）/Rgb/中文, $2390 ◆ ★ 熱賣
+羅技 G Pro X V2 機械式鍵盤/有線/GX青軸/Rgb/87鍵/中文, $2690 ◆ ★ 熱賣
+羅技 G Pro X Tkl 無線三模機械式鍵盤（黑）/有線+Lightspeed 2.4G+藍牙/中文/茶軸/Rgb, $5990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G Pro X Tkl 無線三模機械式鍵盤（白）/有線+Lightspeed 2.4G+藍牙/中文/茶軸/Rgb, $5990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G Pro X Tkl 無線三模機械式鍵盤（桃色）/有線+Lightspeed 2.4G+藍牙/中文/茶軸/Rgb, $5990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G713 Tkl 美型炫光機械式鍵盤/有線/中文/紅軸/Rgb/附手托, $3290↘$2990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G713 Tkl 美型炫光機械式鍵盤/有線/中文/茶軸/Rgb/附手托, $3290↘$2990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G715 Tkl 無線美型炫光機械式鍵盤/無線-藍牙/中文/紅軸/Rgb/附手托, $3690 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G715 Tkl 無線美型炫光機械式鍵盤/無線-藍牙/中文/茶軸/Rgb/附手托, $3690 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G813 機械式遊戲鍵盤/有線/矮軸GL青軸/RGB, $3990↘$3390 ◆ ★ ↓酷幣250↓
+羅技 G813 機械式遊戲鍵盤/有線/矮軸GL茶軸/RGB, $3990↘$3390 ◆ ★ ↓酷幣250↓
+羅技 G813 機械式遊戲鍵盤/有線/矮軸GL紅軸/RGB, $3990↘$3390 ◆ ★ ↓酷幣250↓
+羅技 G913 Tkl 無線機械式鍵盤/無線+藍牙/鋁合金/青軸【敲擊Clicky】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G913 Tkl 無線機械式鍵盤/無線+藍牙/鋁合金/紅軸【線性Linear】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G913 Tkl 無線機械式鍵盤/無線+藍牙/鋁合金/茶軸【觸感Tactile】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G913 無線機械式鍵盤/無線+藍牙/鋁合金/青軸【敲擊Clicky】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G913 無線機械式鍵盤/無線+藍牙/鋁合金/紅軸【線性Linear】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4990 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G913 無線機械式鍵盤/無線+藍牙/鋁合金/茶軸【觸感Tactile】/Rgb/中文〈限量贈鬼滅鼠墊〉, $4990 ◆ ★ 熱賣 ↓酷幣250↓
+10/2-12/31購買羅技全品項滿990以上 上傳發票到登錄網頁且登錄成功，即可參加抽獎, $1 ◆ ★ 熱賣 ↓酷幣250↓
 10/2-12/31購買羅技全品項（不含VC設備及指定組合品）滿指定門檻 登錄成功送好禮【不累贈擇一兌換】, $1 ◆ ★ 熱賣
 a 單張發票滿2000以上送300 Uber Eats 抵用券, $1 ◆ ★ 熱賣
 b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一組 送完為止（市值1990）, $1 ◆ ★ 熱賣
@@ -5218,8 +5223,8 @@ Razer BlackWidow V4 機械式鍵盤/有線/綠軸/中文/六個巨集鍵/磁吸�
 Razer BlackWidow V4 機械式鍵盤/有線/黃軸/中文/六個巨集鍵/磁吸手托/多功能滾輪+媒體鍵/Rgb, $5690 ◆ ★ 熱賣
 Razer BlackWidow V4 Pro 機械式鍵盤/有線/綠軸/中文/控制轉盤/手托/鋁合金結構/Rgb, $7590 ◆ ★ ↓酷幣500↓
 Razer BlackWidow V4 Pro 機械式鍵盤/有線/黃軸/中文/控制轉盤/手托/鋁合金結構/Rgb, $7590 ◆ ★ 熱賣 ↓酷幣500↓
-Razer Huntsman V2 機械式鍵盤/有線/光軸（紅軸）/手托/Pbt/中文/Rgb, $3990 ◆ ★ 熱賣 ↓酷幣300↓
-Razer Huntsman V2 機械式鍵盤/有線/光軸（紫軸）/手托/Pbt/中文/Rgb, $3990 ◆ ★ 熱賣 ↓酷幣300↓
+Razer Huntsman V2 機械式鍵盤/有線/光軸（紅軸）/手托/Pbt/中文/Rgb, $3990 ◆ ★ 熱賣
+Razer Huntsman V2 機械式鍵盤/有線/光軸（紫軸）/手托/Pbt/中文/Rgb, $3990 ◆ ★ 熱賣
 Razer Huntsman V3 Pro 機械式鍵盤/有線/光軸/手托/中文/多功能數位旋鈕與專用控制鍵/Rgb, $9590 ★ 熱賣
 ❤ MKey系列以日本大阪城為設計靈感, 將大阪城的壯觀美景融入在整隻鍵盤上!!!!
 ❤ MKey系列特製的多功能轉軸帶有三個模式 放大縮小 音量大小 RGB模式切換
@@ -5339,10 +5344,14 @@ Gigastone GK-12 機械式鍵盤/有線/中文/茶軸/全區防鬼鍵/Rgb 原價1
 櫻桃 Cherry Mx Board 3.0s Rgb 無線機械式鍵盤/白色/靜音紅軸/中文/櫻桃/鋁製底殼/無鋼板, $4990 ◆ ★
 櫻桃 Cherry Mx Board 3.0s Rgb 無線機械式鍵盤/粉色/茶軸/中文/櫻桃/鋁製底殼/無鋼板, $4990 ◆ ★
 櫻桃 Cherry Mx Board 3.0s Rgb 無線機械式鍵盤/粉色/靜音紅軸/中文/櫻桃/鋁製底殼/無鋼板, $4990 ◆ ★
-櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/白色/茶軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ 熱賣
-櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/白色/靜音紅軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ 熱賣
-櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/粉色/茶軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ 熱賣
-櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/粉色/靜音紅軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ 熱賣
+櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/白色/茶軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ ★ 熱賣
+　　↪ 購買3.1s Rgb Mx2a 機械式鍵盤 贈Mc 1.1 電競滑鼠(白)+專屬大鼠墊 (440x350x4mm) 熱賣
+櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/白色/靜音紅軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ ★ 熱賣
+　　↪ 購買3.1s Rgb Mx2a 機械式鍵盤 贈Mc 1.1 電競滑鼠(白)+專屬大鼠墊 (440x350x4mm) 熱賣
+櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/粉色/茶軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ ★ 熱賣
+　　↪ 購買3.1s Rgb Mx2a 機械式鍵盤 贈Mc 1.1 電競滑鼠(白)+專屬大鼠墊 (440x350x4mm) 熱賣
+櫻桃 Cherry Mx Board 3.1s Rgb Mx2a 機械式鍵盤/粉色/靜音紅軸/中文/櫻桃二代軸/鋁製底殼, $3890 ◆ ★ 熱賣
+　　↪ 購買3.1s Rgb Mx2a 機械式鍵盤 贈Mc 1.1 電競滑鼠(白)+專屬大鼠墊 (440x350x4mm) 熱賣
 HyperX Pudding 布丁鍵帽/英文/粉色, $790 ◆ ★
 HyperX Alloy Origins 機械式鍵盤/有線/HyperX 藍軸（青軸）/中文/懸浮/Rgb, $1790 ◆ ★ 熱賣
 HyperX Alloy Origins 機械式鍵盤/有線/HyperX 紅軸/中文/懸浮/Rgb, $2290↘$1790 ◆ ★ 熱賣
@@ -5460,21 +5469,18 @@ irocks D01-SS 電動升降桌(染井吉野櫻)/OKIN靜音雙馬達/智能防夾�
 irocks D01-SS 電動升降桌(北海道松銀)/OKIN靜音雙馬達/智能防夾偵測/三段高度記憶/120x60, $13800 ◆ ★ 熱賣
 irocks D01-SS 電動升降桌(美國胡桃木)/OKIN靜音雙馬達/智能防夾偵測/三段高度記憶/120x60, $13800 ◆ ★ 熱賣
 Cougar Royal Mossa 120 電動升降桌（白色）/4段記憶模式/承載80公斤/人體工學, $12990 ◆ ★ 熱賣
-　　↪ 購買Cougar Royal Mossa 120 電動升降桌 廠商隨貨贈商務檯燈(黑/白 二選一) 熱賣
 Cougar Royal Mossa 120 電動升降桌（黑色）/4段記憶模式/承載80公斤/人體工學, $12990 ◆ ★ 熱賣
-　　↪ 購買Cougar Royal Mossa 120 電動升降桌 廠商隨貨贈商務檯燈(黑/白 二選一) 熱賣
 Cougar Royal Mossa 150 電動升降桌（黑色）/4段記憶模式/承載80公斤/人體工學/二節式單馬達, $15990 ◆ ★ 熱賣
-　　↪ 購買Cougar Royal Mossa 150 電動升降桌 廠商隨貨贈商務檯燈(黑/白 二選一) 熱賣
 Cougar Royal Mossa 150 電動升降桌（白色）/4段記憶模式/承載80公斤/人體工學/二節式單馬達, $15990 ◆ 熱賣
-　　↪ 購買Cougar Royal Mossa 150 電動升降桌 廠商隨貨贈商務檯燈(黑/白 二選一) 熱賣
 Cougar Deimus 120 電競桌/雙側翼Rgb燈效/耐重80kg/Usb3.0x2 Type-Cx1, $8990 ◆ ★
 Cougar E-Deimus 120 電動升降桌/高度記憶鍵X4/Usb3.0x2 Type-Cx1/側翼Rgb, $15990 ◆ ★ 熱賣
 Cougar Mars 120 戰神電競桌（小）/人體工學/耐刮/多功能控制台/Argb燈效, $9990 ◆ ★
 Cougar Mars Pro 150 戰神電競桌（大）/三段調節（手動)/多功能控制台/Rgb, $13990 ◆ ★
 Cougar E-Mars 自動升降電競桌/高度記憶功能/螢幕延伸功能/燈效同步軟體, $23990 ◆ ★ 熱賣 ↓酷幣2023↓
-曜越 Level 20 RGB 電動升降電競桌/智慧型控制面板/承重150KG/連動雷蛇Chroma, $44900 ◆ ★ ↓酷幣100↓
-曜越 CycleDesk 100 智能電競桌/Itake（Rgb-高度）控制軟體/智能控制器面板, $24900 ◆ ★ 熱賣 ↓酷幣100↓
-曜越 幻銀 ARGENT P900 智能電競桌/Itake（Rgb-高度）控制軟體/智能控制器面板, $69900 ◆ ★ 熱賣 ↓酷幣100↓
+曜越 Level 20 RGB 電動升降電競桌/智慧型控制面板/承重150KG/連動雷蛇Chroma, $44900↘$39800 ◆ ★
+曜越 CycleDesk 100 智能電競桌/Itake（Rgb-高度）控制軟體/智能控制器面板, $24900 ◆ ★ 熱賣
+　　↪ 買曜越 CycleDesk 100 智能電競桌 隨貨贈曜越 U Fit 黑紅專業電競椅 價值7090 熱賣
+曜越 幻銀 ARGENT P900 智能電競桌/Itake（Rgb-高度）控制軟體/智能控制器面板, $69900 ◆ ★ 熱賣
 　　↪ <限量>買曜越 幻銀 ARGENT P900 智能電競桌 贈 ARGENT E700 真皮電競椅 價值37700 熱賣
 華碩 ROG SL201 Aethon 電競椅/2d扶手/全鋼材骨架/雙倍密度座墊/四級氣壓升降, $12900 ◆ ★ 熱賣
 華碩 ROG SL300 Chariot Core 電競椅/定制扶手/記憶腰枕-頭枕/145°/鋁合金腳座, $12900 ◆ ★ 熱賣 ↓酷幣300↓
@@ -5699,38 +5705,38 @@ b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一
 羅技 G102 炫彩遊戲滑鼠（白）/有線/8000dpi/Rgb七彩光學效果, $499 ◆ ★
 羅技 G102 炫彩遊戲滑鼠（藍）/有線/8000dpi/Rgb七彩光學效果, $499 ◆ ★
 羅技 G102 炫彩遊戲滑鼠（紫）/有線/8000dpi/Rgb七彩光學效果, $499 ◆ ★
-羅技 G402 遊戲光學滑鼠/有線/4000dpi/8鍵自訂, $890 ◆ ★ 熱賣 ↓酷幣100↓
+羅技 G402 遊戲光學滑鼠/有線/4000dpi/8鍵自訂, $890 ◆ ★ 熱賣
 羅技 G304 Lightspeed 無線遊戲滑鼠/黑色/無線/12000dpi/6鍵自訂, $799 ◆ ★ 熱賣
 羅技 G304 Lightspeed 無線遊戲滑鼠/白色/無線/12000dpi/6鍵自訂, $888 ◆ ★ 熱賣
 羅技 G304 Lightspeed 無線遊戲滑鼠/藍色/無線/12000dpi/6鍵自訂, $990 ◆ ★ 熱賣
 羅技 G304 Lightspeed 無線遊戲滑鼠/紫色/無線/12000dpi/6鍵自訂, $888 ◆ ★ 熱賣
 羅技 G304 Lightspeed 無線遊戲滑鼠/綠色/無線/12000dpi/6鍵自訂, $990 ◆ ★ 熱賣
-羅技 G403 Hero 遊戲滑鼠/有線/16000dpi/RGB/6鍵自訂, $1490 ◆ ★ ↓酷幣100↓
-羅技 G502 Hero RGB 遊戲滑鼠/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 Hero K/DA RGB 遊戲滑鼠/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1790↘$1690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 Hero 電競滑鼠-星光戰士版（阿璃）/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 Hero 電競滑鼠-星光戰士版（凱莎）/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 Lightspeed 無線電競滑鼠（黑色）/無線/25600Dpi/砝碼/Rgb/飛輪滾輪（贈鬼滅鼠墊）, $2690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 Lightspeed 無線電競滑鼠（粉色）/無線/25600Dpi/砝碼/Rgb/飛輪滾輪（贈鬼滅鼠墊）, $2490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 Lightspeed 無線電競滑鼠（紫色）/無線/25600Dpi/砝碼/Rgb/飛輪滾輪（贈鬼滅鼠墊）, $2490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 X 電競滑鼠（黑）/有線/25600Dpi/Ptfe鼠貼/89g/Lightforce微動, $2290 ◆ ★ ↓酷幣100↓
-羅技 G502 X 電競滑鼠（白）/有線/25600Dpi/Ptfe鼠貼/89g/Lightforce微動, $2290 ◆ ★ ↓酷幣100↓
-羅技 G502 X Lightspeed 無線滑鼠（黑）/25600Dpi/Ptfe鼠貼/Lightforce微動（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 X Lightspeed 無線滑鼠（白）/25600Dpi/Ptfe鼠貼/Lightforce微動（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 X Plus 無線電競滑鼠（黑）/25600Dpi/Ptfe鼠貼/Lightforce微動/Rgb（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G502 X Plus 無線電競滑鼠（白）/25600Dpi/Ptfe鼠貼/Lightforce微動/Rgb（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣100↓
+羅技 G403 Hero 遊戲滑鼠/有線/16000dpi/RGB/6鍵自訂, $1490 ◆ ★
+羅技 G502 Hero RGB 遊戲滑鼠/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1490 ◆ ★ 熱賣
+羅技 G502 Hero K/DA RGB 遊戲滑鼠/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1790↘$1690 ◆ ★ 熱賣
+羅技 G502 Hero 電競滑鼠-星光戰士版（阿璃）/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1490 ◆ ★ 熱賣
+羅技 G502 Hero 電競滑鼠-星光戰士版（凱莎）/有線/25600Dpi/砝碼/Rgb/飛輪滾輪, $1490 ◆ ★ 熱賣
+羅技 G502 Lightspeed 無線電競滑鼠（黑色）/無線/25600Dpi/砝碼/Rgb/飛輪滾輪（贈鬼滅鼠墊）, $2690 ◆ ★ 熱賣
+羅技 G502 Lightspeed 無線電競滑鼠（粉色）/無線/25600Dpi/砝碼/Rgb/飛輪滾輪（贈鬼滅鼠墊）, $2490 ◆ ★ 熱賣
+羅技 G502 Lightspeed 無線電競滑鼠（紫色）/無線/25600Dpi/砝碼/Rgb/飛輪滾輪（贈鬼滅鼠墊）, $2490 ◆ ★ 熱賣
+羅技 G502 X 電競滑鼠（黑）/有線/25600Dpi/Ptfe鼠貼/89g/Lightforce微動, $2290 ◆ ★
+羅技 G502 X 電競滑鼠（白）/有線/25600Dpi/Ptfe鼠貼/89g/Lightforce微動, $2290 ◆ ★
+羅技 G502 X Lightspeed 無線滑鼠（黑）/25600Dpi/Ptfe鼠貼/Lightforce微動（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣
+羅技 G502 X Lightspeed 無線滑鼠（白）/25600Dpi/Ptfe鼠貼/Lightforce微動（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣
+羅技 G502 X Plus 無線電競滑鼠（黑）/25600Dpi/Ptfe鼠貼/Lightforce微動/Rgb（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G502 X Plus 無線電競滑鼠（白）/25600Dpi/Ptfe鼠貼/Lightforce微動/Rgb（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣250↓
 羅技 G Pro Hero 電競滑鼠/有線/Hero16K感應器/25600Dp/Lightsync Rgb, $990 ◆ ★ 熱賣
-羅技 G Pro Wireless 無線電競滑鼠/無線/Hero25K感應器/25600Dp/Rgb（贈鬼滅鼠墊）, $2690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G Pro X Superlight 無線電競滑鼠（黑色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Superlight 無線電競滑鼠（白色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Superlight 無線電競滑鼠（桃紅色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ ↓酷幣300↓
-羅技 G Pro X Superlight 無線電競滑鼠（紅色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Superlight 2 無線電競滑鼠（黑色）/混合微動/32000Dpi/超輕量60g/續航95hr（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Superlight 2 無線電競滑鼠（白色）/混合微動/32000Dpi/超輕量60g/續航95hr（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X Superlight 2 無線電競滑鼠（桃色）/混合微動/32000Dpi/超輕量60g/續航95hr（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G703 無線電競滑鼠/有線+Lightspeed無線/16000Dpi/Rgb/可配重, $2190↘$1990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G705 美型炫光多工遊戲滑鼠/無線/8200Dpi/Rgb/小型手掌設計, $1990 ◆ ★ ↓酷幣100↓
-羅技 G903 無線電競滑鼠/有線+Lightspeed無線/16000dpi/Rgb/11顆自訂按鍵/可配重, $2690 ◆ ★ 熱賣 ↓酷幣100↓
+羅技 G Pro Wireless 無線電競滑鼠/無線/Hero25K感應器/25600Dp/Rgb（贈鬼滅鼠墊）, $2690 ◆ ★ 熱賣
+羅技 G Pro X Superlight 無線電競滑鼠（黑色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣
+羅技 G Pro X Superlight 無線電競滑鼠（白色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣
+羅技 G Pro X Superlight 無線電競滑鼠（桃紅色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★
+羅技 G Pro X Superlight 無線電競滑鼠（紅色）/無線/25600Dpi/超輕量63g（贈鬼滅鼠墊）, $2990 ◆ ★ 熱賣
+羅技 G Pro X Superlight 2 無線電競滑鼠（黑色）/混合微動/32000Dpi/超輕量60g/續航95hr（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G Pro X Superlight 2 無線電競滑鼠（白色）/混合微動/32000Dpi/超輕量60g/續航95hr（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G Pro X Superlight 2 無線電競滑鼠（桃色）/混合微動/32000Dpi/超輕量60g/續航95hr（贈鬼滅鼠墊）, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G703 無線電競滑鼠/有線+Lightspeed無線/16000Dpi/Rgb/可配重, $2190↘$1990 ◆ ★ 熱賣
+羅技 G705 美型炫光多工遊戲滑鼠/無線/8200Dpi/Rgb/小型手掌設計, $1990 ◆ ★
+羅技 G903 無線電競滑鼠/有線+Lightspeed無線/16000dpi/Rgb/11顆自訂按鍵/可配重, $2690 ◆ ★ 熱賣
 10/2-12/31購買羅技全品項（不含VC設備及指定組合品）滿指定門檻 登錄成功送好禮【不累贈擇一兌換】, $1 ◆ ★ 熱賣
 a 單張發票滿2000以上送300 Uber Eats 抵用券, $1 ◆ ★ 熱賣
 b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一組 送完為止（市值1990）, $1 ◆ ★ 熱賣
@@ -5754,28 +5760,28 @@ b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一
 羅技 M350s 藍牙滑鼠（石墨灰）/無線（接受器需另購）+藍牙/左右手通用/1000dpi, $759 ◆ ★
 羅技 M350s 藍牙滑鼠（珍珠白）/無線（接受器需另購）+藍牙/左右手通用/1000dpi, $759 ◆ ★
 羅技 M350s 藍牙滑鼠（玫瑰粉）/無線（接受器需另購）+藍牙/左右手通用/1000dpi, $759 ◆ ★
-羅技 M650 多工靜音無線滑鼠（石墨灰）/無線/SmartWheel捲動功能/自訂側邊按鈕, $1090 ◆ ★ ↓酷幣100↓
-羅技 M650 多工靜音無線滑鼠（玫瑰粉）/無線/SmartWheel捲動功能/自訂側邊按鈕, $1090 ◆ ★ ↓酷幣100↓
-羅技 M650 多工靜音無線滑鼠（珍珠白）/無線/SmartWheel捲動功能/自訂側邊按鈕, $1090 ◆ ★ ↓酷幣100↓
+羅技 M650 多工靜音無線滑鼠（石墨灰）/無線/SmartWheel捲動功能/自訂側邊按鈕, $1090 ◆ ★
+羅技 M650 多工靜音無線滑鼠（玫瑰粉）/無線/SmartWheel捲動功能/自訂側邊按鈕, $1090 ◆ ★
+羅技 M650 多工靜音無線滑鼠（珍珠白）/無線/SmartWheel捲動功能/自訂側邊按鈕, $1090 ◆ ★
 羅技 Pop Mouse 無線藍牙滑鼠（酷玩黃）/自訂表情符號/切換3台裝置, $799 ◆ ★
 羅技 Pop Mouse 無線藍牙滑鼠（夢幻紫）/自訂表情符號/切換3台裝置, $799 ◆ ★
 羅技 Pop Mouse 無線藍牙滑鼠（魅力桃）/自訂表情符號/切換3台裝置, $799 ◆ ★
 羅技 Pop Mouse 無線藍牙滑鼠（星暮紫）/自訂表情符號/切換3台裝置, $799 ◆ ★
 羅技 Pop Mouse 無線藍牙滑鼠（迷霧灰）/自訂表情符號/切換3台裝置, $799 ◆ ★
-羅技 MX Anywhere 3 無線滑鼠（玫瑰粉）/無線-藍牙/多裝置/可用在玻璃面, $2390 ◆ ★ ↓酷幣200↓
-羅技 MX Anywhere 3S 無線滑鼠（石墨灰）/藍牙/8000Dpi/多裝置/可用在玻璃面/無接受器, $2690 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Anywhere 3S 無線滑鼠（珍珠白）/藍牙/8000Dpi/多裝置/可用在玻璃面/無接受器, $2690 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Anywhere 3S 無線滑鼠（玫瑰粉）/藍牙/8000Dpi/多裝置/可用在玻璃面/無接受器, $2690 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Keys S 無線智能鍵盤+羅技 MX Anywhere 3S<組合優惠>原價6980, $6290 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Master 3s 無線靜音滑鼠（石墨灰）/雙模（藍牙或BOLT接收器）/8000Dpi/Type-C充電, $3690 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Master 3s 無線靜音滑鼠（珍珠白）/雙模（藍牙或BOLT接收器）/8000Dpi/Type-C充電, $3690 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Lift 人體工學垂直滑鼠（石墨灰）/無線-藍牙/57°垂直/適用小-中手型, $2190 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Lift 人體工學垂直滑鼠（玫瑰粉）/無線-藍牙/57°垂直/適用小-中手型, $2190 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 Lift 人體工學垂直滑鼠（珍珠白）/無線-藍牙/57°垂直/適用小-中手型, $2190 ◆ ★ 熱賣 ↓酷幣200↓
-羅技 MX Vertical 垂直滑鼠/有線-無線-藍牙/57°垂直/支援FLOW/人體工學/適用中-大手型, $2790 ◆ ★ ↓酷幣200↓
-羅技 Ergo M575 無線軌跡球（黑）/無線（2.4g+藍牙）/人體工學, $1490 ◆ ★ ↓酷幣30↓
+羅技 MX Anywhere 3 無線滑鼠（玫瑰粉）/無線-藍牙/多裝置/可用在玻璃面, $2390 ◆ ★
+羅技 MX Anywhere 3S 無線滑鼠（石墨灰）/藍牙/8000Dpi/多裝置/可用在玻璃面/無接受器, $2690 ◆ ★ 熱賣
+羅技 MX Anywhere 3S 無線滑鼠（珍珠白）/藍牙/8000Dpi/多裝置/可用在玻璃面/無接受器, $2690 ◆ ★ 熱賣
+羅技 MX Anywhere 3S 無線滑鼠（玫瑰粉）/藍牙/8000Dpi/多裝置/可用在玻璃面/無接受器, $2690 ◆ ★ 熱賣
+羅技 MX Keys S 無線智能鍵盤+羅技 MX Anywhere 3S<組合優惠>原價6980, $6290 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 MX Master 3s 無線靜音滑鼠（石墨灰）/雙模（藍牙或BOLT接收器）/8000Dpi/Type-C充電, $3490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 MX Master 3s 無線靜音滑鼠（珍珠白）/雙模（藍牙或BOLT接收器）/8000Dpi/Type-C充電, $3490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 Lift 人體工學垂直滑鼠（石墨灰）/無線-藍牙/57°垂直/適用小-中手型, $2190 ◆ ★ 熱賣
+羅技 Lift 人體工學垂直滑鼠（玫瑰粉）/無線-藍牙/57°垂直/適用小-中手型, $2190 ◆ ★ 熱賣
+羅技 Lift 人體工學垂直滑鼠（珍珠白）/無線-藍牙/57°垂直/適用小-中手型, $2190 ◆ ★ 熱賣
+羅技 MX Vertical 垂直滑鼠/有線-無線-藍牙/57°垂直/支援FLOW/人體工學/適用中-大手型, $2790 ◆ ★
+羅技 Ergo M575 無線軌跡球（黑）/無線（2.4g+藍牙）/人體工學, $1490 ◆ ★
 羅技 Ergo M575 無線軌跡球（白）/無線（2.4g+藍牙）/人體工學, $1290 ◆ ★
-羅技 MX Ergo 無線軌跡球滑鼠/無線/藍牙/Unifying/傾斜20°調整, $3290 ◆ ★
+羅技 MX Ergo 無線軌跡球滑鼠/無線/藍牙/Unifying/傾斜20°調整, $3290 ◆ ★ ↓酷幣250↓
 10/2-12/31購買羅技全品項滿990以上 上傳發票到登錄網頁且登錄成功，即可參加抽獎, $1 ◆ ★ 熱賣
 10/2-12/31購買羅技全品項（不含VC設備及指定組合品）滿指定門檻 登錄成功送好禮【不累贈擇一兌換】, $1 ◆ ★ 熱賣
 a 單張發票滿2000以上送300 Uber Eats 抵用券, $1 ◆ ★ 熱賣
@@ -6008,7 +6014,7 @@ WACOM Intuos Pro M 創意觸控繪圖板 (PTH-660/K0-C) 【客訂】, $9900 ◆ 
 9
 10
 19	IP分享器｜網卡｜網通設備	
-共有商品 230 樣，熱賣 29，圖片 224，討論 228，價格異動 78，限時下殺▼10
+共有商品 230 樣，熱賣 29，圖片 228，討論 228，價格異動 43，限時下殺▼9
 華碩 RT-AC1200 V2 (AC1200/雙頻/四天線/4埠100M/三年換新)-[內洽驚喜價]▼下殺到 12/31 23:59, $1399↘$1199 ◆ ★
 華碩 RT-AC1500UHP (AC1500/雙頻/高增益四天線/4埠Gigabit/三年換新)-[內洽驚喜價], $1999 ◆ ★
 華碩 RT-AX1800HP (AX1800/雙頻/4x高功率大天線/4x1GbE/三年換新)-[內洽驚喜價], $2799 ◆ ★
@@ -6021,17 +6027,17 @@ WACOM Intuos Pro M 創意觸控繪圖板 (PTH-660/K0-C) 【客訂】, $9900 ◆ 
 　　↪ 動口不動手，讓專業的來，購買華碩Mesh，華碩官網登錄送免費到府安裝服務!
 華碩 ZENWIFI XD5 (AX3000/AX Mesh/Gigabit/兩入/黑/三年換新)-[內洽驚喜價], $5499 ◆ ★ 熱賣
 　　↪ 動口不動手，讓專業的來，購買華碩Mesh，華碩官網登錄送免費到府安裝服務!
-TP-LINK TL-PA7017 KIT AV1000/電力線/Gigabit埠/輕鬆延伸網路/隨插即用/雙入組, $1250 ◆ ★
-TP-LINK TL-WPA7517 KIT AV1000/雙頻/AC1200//Gigabit埠/電力線/WiFi延伸/隨插即用, $2080 ◆ ★
-TP-LINK TX201【2.5GbE】RJ45單埠高速有線網路卡/PCIe介面, $770 ◆ ★
-TP-LINK TX401【10GbE】RJ45單埠高速有線網路卡/PCIe介面, $2330↘$2150 ◆ ★
+TP-LINK TL-PA7017 KIT AV1000/電力線/Gigabit埠/輕鬆延伸網路/隨插即用/雙入組, $1399 ◆ ★
+TP-LINK TL-WPA7517 KIT AV1000/雙頻/AC1200//Gigabit埠/電力線/WiFi延伸/隨插即用, $2499 ◆ ★
+TP-LINK TX201【2.5GbE】RJ45單埠高速有線網路卡/PCIe介面, $799 ◆ ★
+TP-LINK TX401【10GbE】RJ45單埠高速有線網路卡/PCIe介面, $2399 ◆ ★
 華碩 XG-C100C V2【10GbE】單埠高速網路卡/PCIe介面, $2950 ◆ ★
 ZyXEL合勤 XGN100C【10GbE】單埠網路卡/PCIe/RJ45, $2390 ◆ ★
 ZyXEL合勤 XGN100F【10GbE】單埠網路卡/PCIe/SFP+光纖, $2400 ◆ ★
 TOTOLINK PX1000【Gigabit埠】RJ45有線網卡/PCIe介面, $260 ◆ ★
 伽利略 PETL02B【Gigabit埠】2埠有線網卡/Intel 82576晶片組/PCIe介面, $1700↘$1600 ◆ ★
 TP-LINK UE300【Gigabit埠】RJ45有線網卡/USB 3.0/摺疊設計/支援Windows/Mac, $329 ◆ ★
-TP-LINK UE306【Gigabit埠】RJ45有線網卡/USB 3.0/支援Nintendo Switch/Mac OS, $335↘$320 ◆ ★
+TP-LINK UE306【Gigabit埠】RJ45有線網卡/USB 3.0/支援Nintendo Switch/Mac OS, $349 ◆ ★
 華碩 USB-C2500【2.5GbE】RJ45有線網卡/USB 3.0轉Gigabit/三年換新/支援Mac, $1290 ◆ ★
 3C Pig TC-R1000【Gigabit埠】Type-C 轉接器 Type-C to RJ45 /一年保/支援Mac, $399 ◆ ★
 TOTOLINK U100【10/100Mbps】RJ45有線網卡/USB 2.0/白/一年保/支援Mac, $230 ◆ ★
@@ -6040,24 +6046,24 @@ TOTOLINK U1000【Gigabit埠】RJ45有線網卡/USB 3.2Gen1介面/白/一年保/�
 QNAP QNA-T310G1T 【10GbE】Thunderbolt 3/RJ45有線網卡/支援Mac, $6990 ◆ ★
 　　↪ 僅支援Thunderbolt 3，無法向下相容Thunderbolt 2 / 1。
 TP-LINK LS1008【8埠】10/100Mbps 桌上型交換器/塑膠機殼/即插即用, $239↘$219 ◆ ★
-TP-LINK TL-SF1005D【5埠】10/100Mbps 桌上型交換器/塑膠機殼/即插即用, $199↘$179 ◆ ★
+TP-LINK TL-SF1005D【5埠】10/100Mbps 桌上型交換器/塑膠機殼/即插即用, $199 ◆ ★
 TP-LINK TL-SF1008D【8埠】10/100Mbps 桌上型交換器/塑膠機殼/即插即用, $249 ◆ ★
 MERCUSYS水星 MS105【5埠】10/100Mbps 交換器/塑膠殼/桌上型, $159 ◆ ★
 MERCUSYS水星 MS108【8埠】10/100Mbps 交換器/塑膠殼/桌上型, $199 ◆ ★
 TOTOLINK S505【5埠】10/100Mbps 交換器/桌上型/壁掛兩用/即插即用, $179↘$165 ◆ ★
 TOTOLINK S808【8埠】10/100Mbps 交換器/桌上型/壁掛兩用/即插即用, $229↘$199 ◆ ★
 TOTOLINK SW24D【24埠】10/100Mbps 交換器/塑膠殼/桌上型/壁掛兩用, $830 ◆ ★
-TP-LINK TL-SG1005D【5埠】Gigabit埠 桌上型交換器/塑膠殼/可壁掛兩用, $390 ◆ ★
-TP-LINK LS1005G【5埠】Gigabit埠 桌上型交換器/塑膠殼/可壁掛兩用, $329↘$275 ◆ ★
-TP-LINK LS1008G【8埠】Gigabit埠 桌上型交換器/塑膠殼/可壁掛兩用, $535 ◆ ★
-TP-LINK LS105G【5埠】Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $399↘$389 ◆ ★
-TP-LINK LS108G【8埠】Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $699↘$690 ◆ ★
-TP-LINK TL-SG105【5埠】專業級Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $439↘$420 ◆ ★ 熱賣
-TP-LINK TL-SG108【8埠】專業級Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $729↘$669 ◆ ★ 熱賣
-TP-LINK TL-SG1005P【5埠】Gigabit埠(含4埠 PoE+)65W總供電 /PoE埠最高30W供電, $1099 ◆ ★
-TP-LINK TL-SG116【16埠】Gigabit埠 交換器/鐵殼/桌上型/壁掛兩用, $1799↘$1670 ◆ ★
-TP-LINK TL-SG1016D【16埠】Gigabit埠 交換器/鐵殼/13吋/桌上型/壁掛兩用, $1890↘$1799 ◆ ★
-TP-LINK TL-SG1024D【24埠】Gigabit埠 交換器/鐵殼/13吋/桌上型/可機架裝載, $2399↘$2200 ◆ ★ 熱賣
+TP-LINK TL-SG1005D【5埠】Gigabit埠 桌上型交換器/塑膠殼/可壁掛兩用, $429 ◆ ★
+TP-LINK LS1005G【5埠】Gigabit埠 桌上型交換器/塑膠殼/可壁掛兩用, $329 ◆ ★
+TP-LINK LS1008G【8埠】Gigabit埠 桌上型交換器/塑膠殼/可壁掛兩用, $599 ◆ ★
+TP-LINK LS105G【5埠】Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $399 ◆ ★
+TP-LINK LS108G【8埠】Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $699 ◆ ★
+TP-LINK TL-SG105【5埠】專業級Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $439 ◆ ★ 熱賣
+TP-LINK TL-SG108【8埠】專業級Gigabit埠 桌上型交換器/鐵殼/可壁掛兩用, $729 ◆ ★ 熱賣
+TP-LINK TL-SG1005P【5埠】Gigabit埠(含4埠 PoE+)65W總供電 /PoE埠最高30W供電, $1599 ◆ ★
+TP-LINK TL-SG116【16埠】Gigabit埠 交換器/鐵殼/桌上型/壁掛兩用, $1799 ◆ ★
+TP-LINK TL-SG1016D【16埠】Gigabit埠 交換器/鐵殼/13吋/桌上型/壁掛兩用, $1999 ◆ ★
+TP-LINK TL-SG1024D【24埠】Gigabit埠 交換器/鐵殼/13吋/桌上型/可機架裝載, $2499 ◆ ★ 熱賣
 MERCUSYS水星 MS105G【5埠】Gigabit埠 交換器/塑膠殼/桌上型, $289 ◆ ★
 MERCUSYS水星 MS108G【8埠】Gigabit埠 交換器/塑膠殼/桌上型, $449 ◆ ★
 MERCUSYS水星 MS105GS【5埠】Gigabit埠 交換器/金屬殼/桌上型, $369 ◆ ★
@@ -6072,16 +6078,16 @@ Linksys LGS105【5埠】Gigabit埠交換器/鐵殼/桌上、壁掛兩用/五年�
 Linksys LGS108【8埠】Gigabit埠交換器/鐵殼/桌上、壁掛兩用/五年保固, $990 ◆ ★ ↓酷幣50↓
 Linksys LGS116【16埠】Gigabit埠交換器/鐵殼/桌上、壁掛兩用/五年保固, $2990 ◆ ★
 Linksys LGS124【24埠】Gigabit埠交換器/鐵殼/桌上/可機架裝載/五年保固, $3690 ◆ ★
-ZyXEL合勤 GS-105S v2【5埠】Gigabit交換器/塑殼/桌上型/三年保固, $388 ◆
+ZyXEL合勤 GS-105S v2【5埠】Gigabit交換器/塑殼/桌上型/三年保固, $388 ◆ ★
 TP-LINK TL-SG105-M2【5埠】2.5GbE埠 桌上型交換器/鐵殼/可壁掛兩用, $1999 ◆ ★
 TP-LINK TL-SG108-M2【8埠】2.5GbE埠 桌上型交換器/鐵殼/可壁掛兩用, $2999 ◆ ★
-TP-LINK TL-SX105【5埠】10GbE埠 桌上型交換器/鐵殼/可壁掛兩用, $7350 ◆ ★
-TP-LINK TL-SX1008【8埠】10GbE埠 桌上型交換器/鐵殼/可壁掛兩用, $9650 ◆ ★
+TP-LINK TL-SX105【5埠】10GbE埠 桌上型交換器/鐵殼/可壁掛兩用, $7999 ◆ ★
+TP-LINK TL-SX1008【8埠】10GbE埠 桌上型交換器/鐵殼/可壁掛兩用, $9999 ◆ ★
 ZyXEL合勤 MG-105【5埠】2.5GbE交換器/無風扇設計/鐵殼/可壁掛兩用, $3070 ◆ ★
 ZyXEL合勤 MG-108【8埠】2.5GbE交換器/無風扇設計/鐵殼/可壁掛兩用.尾盤, $3888 ◆ ★
-ZyXEL合勤 XMG-108【9埠】Multi-Gig 2.5GbE*8埠/10GbE*1 SFP+光纖埠/無網管, $5488 ↓酷幣100↓
-ZyXEL合勤 XGS1010-12【12埠】1GbE*8埠/2.5GbE*2埠/10GbE*2 SFP+光纖埠/無網管, $5145 ◆
-ZyXEL合勤 XGS1210-12【12埠】1GbE*8埠/2.5GbE*2埠/10GbE*2 SFP+光纖埠/網管型, $6090 ◆
+ZyXEL合勤 XMG-108【9埠】Multi-Gig 2.5GbE*8埠/10GbE*1 SFP+光纖埠/無網管, $5488 ★ ↓酷幣100↓
+ZyXEL合勤 XGS1010-12【12埠】1GbE*8埠/2.5GbE*2埠/10GbE*2 SFP+光纖埠/無網管, $5145 ◆ ★
+ZyXEL合勤 XGS1210-12【12埠】1GbE*8埠/2.5GbE*2埠/10GbE*2 SFP+光纖埠/網管型, $6090 ◆ ★
 QNAP QSW-1105-5T【5埠】2.5GbE 無網管型交換器, $2980 ◆ ★
 QNAP QSW-2104-2S【6埠】(2埠*10GbE SFP+光纖)+(4埠*2.5GbE RJ45), $3590 ◆ ★
 QNAP QSW-2104-2T【6埠】(2埠*10GbE RJ45)+(4埠*2.5GbE RJ45), $4590 ◆ ★
@@ -6092,55 +6098,55 @@ QNAP QSW-M408-2C【12埠】L2 Web 管理型 10/1GbE 交換器, $10649 ◆ ★
 QNAP QSW-M408-4C【12埠】L2 Web 管理型 10/1GbE 交換器, $15500↘$14800 ◆ ★
 　　↪ 入門款 L2 Web 管理型 (10GbE SFP+光纖/RJ45 複合埠*4)+(8埠*1GbE RJ45)
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
-TP-LINK TL-WR802N (300M/USB供電/AP模式/無線網卡模式/WiFi延伸分享/輕巧便攜), $469 ◆ ★
-TP-LINK TL-WA855RE (300M/插座供電/AP模式/無線網卡模式/Wi-Fi訊號延伸器,三合一), $385 ◆ ★
-TP-LINK RE315 (AC1200/雙頻/2天線/單埠100M/AP模式/OneMesh/Wi-Fi訊號延伸器), $739 ◆ ★
-TP-LINK RE505X (AX1500/WiFi 6/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi訊號延伸器), $1380 ◆ ★ 熱賣
-TP-LINK RE605X (AX1800/WiFi 6/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi訊號延伸器), $1600 ◆ ★
-TP-LINK RE705X(AX3000/WiFi 6/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi訊號延伸器), $1950 ◆ ★
+TP-LINK TL-WR802N (300M/USB供電/AP模式/無線網卡模式/WiFi延伸分享/輕巧便攜), $499 ◆ ★
+TP-LINK TL-WA855RE (300M/插座供電/AP模式/無線網卡模式/Wi-Fi訊號延伸器,三合一), $429 ◆ ★
+TP-LINK RE315 (AC1200/雙頻/2天線/單埠100M/AP模式/OneMesh/Wi-Fi訊號延伸器), $799 ◆ ★
+TP-LINK RE505X (AX1500/WiFi 6/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi訊號延伸器), $1499 ◆ ★ 熱賣
+TP-LINK RE605X (AX1800/WiFi 6/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi訊號延伸器), $1990 ◆ ★
+TP-LINK RE705X(AX3000/WiFi 6/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi訊號延伸器), $1999 ◆ ★
 MERCUSYS水星 MW300RE (300M/3天線/Wi-Fi 訊號延伸器/一鍵設定), $339 ◆ ★
 MERCUSYS水星 ME30 (AC1200/雙頻/2天線/單埠100M/AP模式/Wi-Fi 訊號延伸器), $599 ◆ ★
 華碩 RP-N12 (300M/插座供電/2天線/100M*埠/AP模式/無線網卡模式/Wi-Fi 訊號延伸器)▼下殺到 12/31 23:59, $699↘$569 ◆ ★
 TOTOLINK EX200 (300M/插座供電/有線/2天線/Wi-Fi 訊號延伸器/兩步驟設定), $280 ◆ ★
 TOTOLINK EX1200T (AC1200/雙頻/2天線/Wi-Fi 訊號延伸器/強波器).尾盤, $570 ◆ ★
 TOTOLINK EX1800L (AX1800/雙頻/2天線/1*Gigabit埠/AP模式/Wi-Fi 訊號延伸器), $1290 ◆ ★
-TP-LINK M7450 (AC1200/4G LTE 行動WIFI分享，內含3000mAh電池方便攜帶), $2990 ◆ ★
-TP-LINK TL-MR6400 (300M/雙天線/SIM卡/4G LTE無線路由器), $1899↘$1799 ◆ ★ 熱賣
-TP-LINK TL-MR6500v (300M/雙天線/SIM卡/支援VoIP電話/4G LTE無線路由器), $1999↘$1988 ◆ ★
-TP-LINK Archer MR400 (AC1200/雙天線/雙頻/SIM卡/3埠*100M/4G LTE無線路由器), $2650↘$2490 ◆ ★ 熱賣
+TP-LINK M7450 (AC1200/4G LTE 行動WIFI分享，內含3000mAh電池方便攜帶), $2999 ◆ ★
+TP-LINK TL-MR6400 (300M/雙天線/SIM卡/4G LTE無線路由器), $1899 ◆ ★ 熱賣
+TP-LINK TL-MR6500v (300M/雙天線/SIM卡/支援VoIP電話/4G LTE無線路由器), $1999 ◆ ★
+TP-LINK Archer MR400 (AC1200/雙天線/雙頻/SIM卡/3埠*100M/4G LTE無線路由器), $2799 ◆ ★ 熱賣
 TP-LINK Archer MR600 (AC1200/雙天線/雙頻/SIM卡/Gigabit埠/4G LTE無線路由器), $3999 ◆ ★
-TP-LINK Deco X20-4G (AX1800/AX Mesh/隱藏雙天線/Gigabit埠/4G LTE 無線路由器), $3888 ◆ ★
-TP-LINK Deco X50-4G (AX3000/AX Mesh/隱藏雙天線/Gigabit埠/4G LTE 無線路由器), $4999 ◆ ★
+TP-LINK Deco X20-4G (AX1800/AX Mesh/隱藏雙天線/Gigabit埠/4G LTE 無線路由器), $3999 ◆ ★
+TP-LINK Deco X50-4G (AX3000/AX Mesh/隱藏雙天線/Gigabit埠/4G LTE 無線路由器), $5999 ◆ ★
 華碩 4G-N16 (300Mbps/雙天線/SIM卡/1埠*Gigabit/4G LTE無線路由器/三年換新), $2690 ◆ ★
 華碩 4G-AX56 (AX1800/三天線/SIM卡/4埠*Gigabit/4G LTE無線路由器/三年換新), $4890 ◆ ★
 TOTOLINK LR350 (300Mbps/四天線/SIM卡/支援各大電信/4G LTE路由器), $1388 ◆ ★
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
-TP-LINK TL-WR840N (300M/雙天線/4埠100M/三年保固), $399 ◆ ★
+TP-LINK TL-WR840N (300M/雙天線/4埠100M/三年保固), $469 ◆ ★
 MERCUSYS水星 MW325R (300M/四天線/4埠100M/三年保固), $429 ◆ ★
 華碩 RT-N12+ B1 (300M/雙天線/4埠100M/三年換新), $699 ◆ ★
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
-TP-LINK Archer C24 (AC750/雙頻/四天線/4埠100M/三年保固), $540↘$539 ◆ ★
-TP-LINK Archer C50 (AC1200/雙頻/四天線/4埠100M/三年保固), $670↘$669 ◆ ★
-TP-LINK Archer C54 (AC1200/雙頻/四天線/4埠100M/MU-MIMO/三年保固), $650↘$639 ◆ ★
+TP-LINK Archer C24 (AC750/雙頻/四天線/4埠100M/三年保固), $599 ◆ ★
+TP-LINK Archer C50 (AC1200/雙頻/四天線/4埠100M/三年保固), $729 ◆ ★
+TP-LINK Archer C54 (AC1200/雙頻/四天線/4埠100M/MU-MIMO/三年保固), $749 ◆ ★
 TP-LINK Archer C64 (AC1200/雙頻四天線/4埠Gigabit/MU-MIMO/三年保固), $899↘$839 ◆ ★ 熱賣
-TP-LINK Archer A6 (AC1200/四天線/4埠Gigabit/MU-MIMO/三年保固), $1099↘$950 ◆ ★
-TP-LINK Archer C80 (AC1900/四天線/4埠Gigabit/MU-MIMO/三年保固), $1199↘$1100 ◆ ★ 熱賣
+TP-LINK Archer A6 (AC1200/四天線/4埠Gigabit/MU-MIMO/三年保固), $1099↘$949 ◆ ★
+TP-LINK Archer C80 (AC1900/四天線/4埠Gigabit/MU-MIMO/三年保固), $1199 ◆ ★ 熱賣
 MERCUSYS水星 AC10 (AC1200/雙頻/四天線/100M*2埠), $599 ◆ ★
 MERCUSYS水星 AC12G (AC1200/雙頻/四天線/Gigabit*3埠), $829 ◆ ★
 MERCUSYS水星 MR50G (AC1900/雙頻/六天線/Gigabit*2埠/MU-MIMO), $899 ◆ ★ 熱賣
 華碩 RT-AC52 (AC750/雙頻/四天線/4埠100M/支援MOD/三年換新), $999 ◆ ★
 華碩 RT-AC1200 V2 (AC1200/雙頻/四天線/4埠100M/三年換新)-[內洽驚喜價]▼下殺到 12/31 23:59, $1399↘$1199 ◆ ★
-華碩 RT-AC1500G+ (AC1500/雙頻/四天線/4*Gigabit埠/支援MOD/三年換新)▼下殺到 12/25 23:59, $1899↘$1688 ◆ ★
+華碩 RT-AC1500G+ (AC1500/雙頻/四天線/4*Gigabit埠/支援MOD/三年換新), $1899 ◆ ★
 華碩 RT-AC1500UHP (AC1500/雙頻/高增益四天線/4埠Gigabit/三年換新)-[內洽驚喜價], $1999 ◆ ★
 Linksys EA7500S (AC1900/雙頻/3x高增益天線/4x1GbE/MU-MIMO/越南製), $999↘$799 ◆ ★ 熱賣
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
-TP-LINK Archer AX12 (AX1500/雙頻/4x天線/4x1GbE/App簡單設定/入門首選), $999 ◆ ★
-TP-LINK Archer AX23 (AX1800/雙頻/4x天線/4x1GbE/支援OneMesh/聯發科晶片), $1599↘$1499 ◆ ★ 熱賣
-TP-LINK Archer AX53 (AX3000/雙頻/4x高功率天線/4x1GbE/支援OneMesh), $1999↘$1750 ◆ ★ 熱賣
+TP-LINK Archer AX12 (AX1500/雙頻/4x天線/4x1GbE/App簡單設定/入門首選), $1199 ◆ ★
+TP-LINK Archer AX23 (AX1800/雙頻/4x天線/4x1GbE/支援OneMesh/聯發科晶片), $1599 ◆ ★ 熱賣
+TP-LINK Archer AX53 (AX3000/雙頻/4x高功率天線/4x1GbE/支援OneMesh), $1999 ◆ ★ 熱賣
 TP-LINK Archer AX55 Pro(AX3000/雙頻/4x天線/1x2.5GbE/3x1GbE//支援OneMesh), $2590 ◆ ★
-TP-LINK Archer AX73 (AX5400/雙頻/6x高功率天線/4x1GbE/支援OneMesh), $2999↘$2600 ◆ ★ 熱賣
-TP-LINK Archer AX80 (AX6000/雙頻/8x高功率天線/1x2.5GbE/中文APP/支援OneMesh), $3999↘$3888 ◆ ★
-TP-LINK Archer AX95 (AX7800/三頻/8x高功率天線/1x2.5GbE/中文APP/支援OneMesh), $5999↘$4899 ◆ ★
+TP-LINK Archer AX73 (AX5400/雙頻/6x高功率天線/4x1GbE/支援OneMesh), $2999 ◆ ★ 熱賣
+TP-LINK Archer AX80 (AX6000/雙頻/8x高功率天線/1x2.5GbE/中文APP/支援OneMesh), $4499 ◆ ★
+TP-LINK Archer AX95 (AX7800/三頻/8x高功率天線/1x2.5GbE/中文APP/支援OneMesh), $5999↘$4999 ◆ ★
 MERCUSYS水星 MR60X (AX1500/雙頻/4x天線/3x1GbE/中文APP), $999 ◆ ★
 MERCUSYS水星 MR70X (AX1800/雙頻/4x天線/3x1GbE/支援VPN/中文APP), $1299 ◆ ★ 熱賣
 MERCUSYS水星 MR90X (AX6000/雙頻/8x天線/1x2.5GbE/2x1GbE/中文APP), $2899 ◆ ★ 熱賣
@@ -6165,22 +6171,22 @@ ACER Predator Connect W6 Wi-Fi 6E(AXE7800/三頻/6x天線/4核心/2.5GbE/3年保
 Synology RT6600ax (AX6600/三頻/6x天線/1x2.5GbE/3x1GbE/兩年保固), $9300 ◆ ★
 Linksys E9450 (AX5400/雙頻/4x隱藏天線/4x1GbE/MU-MIMO/Ez Mesh/三年保固), $2990 ◆ ★
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
-TP-LINK Deco E4 (AC1200/Mesh/隱藏雙天線/100Mbps埠/兩入), $1799↘$1588 ◆ ★
+TP-LINK Deco E4 (AC1200/Mesh/隱藏雙天線/100Mbps埠/兩入), $1799 ◆ ★
 TP-LINK Deco E4 (AC1200/Mesh/隱藏雙天線/100Mbps埠/三入), $2699 ◆ ★
-TP-LINK Deco M4 (AC1200/Mesh/隱藏雙天線/2埠Gigabit/兩入), $2299↘$2150 ◆ ★
-TP-LINK Deco M4 (AC1200/Mesh/隱藏雙天線/2埠Gigabit/三入), $2999↘$2888 ◆ ★ 熱賣
-TP-LINK Deco S7 (AC1900/Mesh/隱藏3天線/3埠Gigabit/三入), $3499↘$3200 ◆ ★ 熱賣
-TP-LINK Deco X10 (AX1500/AX Mesh/隱藏雙天線/2埠Gigabit/兩入), $2850 ◆
-TP-LINK Deco X10 (AX1500/AX Mesh/隱藏雙天線/2埠Gigabit/三入), $3799 ◆ ★
-TP-LINK Deco X20 (AX1800/AX Mesh/隱藏四天線/2埠Gigabit/兩入), $3699↘$3399 ◆ ★
+TP-LINK Deco M4 (AC1200/Mesh/隱藏雙天線/2埠Gigabit/兩入), $2399 ◆ ★
+TP-LINK Deco M4 (AC1200/Mesh/隱藏雙天線/2埠Gigabit/三入), $3399 ◆ ★ 熱賣
+TP-LINK Deco S7 (AC1900/Mesh/隱藏3天線/3埠Gigabit/三入), $3499↘$3399 ◆ ★ 熱賣
+TP-LINK Deco X10 (AX1500/AX Mesh/隱藏雙天線/2埠Gigabit/兩入), $2999 ◆
+TP-LINK Deco X10 (AX1500/AX Mesh/隱藏雙天線/2埠Gigabit/三入), $4399 ◆ ★
+TP-LINK Deco X20 (AX1800/AX Mesh/隱藏四天線/2埠Gigabit/兩入), $3699 ◆ ★
 TP-LINK Deco X20 (AX1800/AX Mesh/隱藏四天線/2埠Gigabit/三入), $4999 ◆ ★
-TP-LINK Deco X50 (AX3000/AX Mesh/隱藏四天線/3埠Gigabit/兩入), $4999↘$4499 ◆ ★
-TP-LINK Deco X50 (AX3000/AX Mesh/隱藏四天線/3埠Gigabit/三入), $6499↘$6299 ◆ ★
-TP-LINK Deco X75 (AX5400/三頻/AX Mesh/隱藏四天線/3埠Gigabit/兩入).尾盤, $6699 ◆ ★
-TP-LINK Deco X95 (AX7800/三頻/AX Mesh/隱藏六天線/1*2.5GbE/2*Gigabit/兩入), $10999↘$10200 ◆ ★
-TP-LINK Deco XE75 (AXE5400/三頻/Mesh WiFi 6E/隱藏四天線/3埠Gigabit/兩入), $8588 ◆ ★
-TP-LINK Deco XE75 (AXE5400/三頻/Mesh WiFi 6E/隱藏四天線/3埠Gigabit/三入), $12990 ◆ ★
-TP-LINK Deco BE85 (BE22000/三頻/Mesh WiFi 7/隱藏八天線/10GbE*2/2.5GbE*2/三入), $45900 ◆ ★
+TP-LINK Deco X50 (AX3000/AX Mesh/隱藏四天線/3埠Gigabit/兩入), $4999↘$4699 ◆ ★
+TP-LINK Deco X50 (AX3000/AX Mesh/隱藏四天線/3埠Gigabit/三入), $6999 ◆ ★
+TP-LINK Deco X75 (AX5400/三頻/AX Mesh/隱藏四天線/3埠Gigabit/兩入).尾盤, $6999 ◆ ★
+TP-LINK Deco X95 (AX7800/三頻/AX Mesh/隱藏六天線/1*2.5GbE/2*Gigabit/兩入), $10999↘$10499 ◆ ★
+TP-LINK Deco XE75 (AXE5400/三頻/Mesh WiFi 6E/隱藏四天線/3埠Gigabit/兩入), $9999 ◆ ★
+TP-LINK Deco XE75 (AXE5400/三頻/Mesh WiFi 6E/隱藏四天線/3埠Gigabit/三入), $12999 ◆ ★
+TP-LINK Deco BE85 (BE22000/三頻/Mesh WiFi 7/隱藏八天線/10GbE*2/2.5GbE*2/三入), $48888 ◆ ★
 MERCUSYS水星 Halo H30G (AC1300/Mesh/隱藏雙天線/2*Gigabit埠/三入), $1999 ◆ ★
 MERCUSYS水星 Halo H50G (AC1900/Mesh/隱藏三天線/3*Gigabit埠/三入), $2690 ◆ ★ 熱賣
 MERCUSYS水星 Halo H70X (AX1800/Mesh/隱藏雙天線/3*Gigabit埠/兩入), $2999↘$2399 ◆ ★
@@ -6234,7 +6240,7 @@ Linksys Velop AX4200(三頻/Mesh/隱藏7天線/3*Gigabit埠/高通4核心/支援
 Linksys Velop AX4200(三頻/Mesh/隱藏7天線/3*Gigabit埠/高通4核心/支援HomeKit/三入), $15490 ◆ ★
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
 TP-LINK TL-WN725N (150Mbps/隱藏天線/超迷你型設計), $149 ◆ ★
-TP-LINK TL-WN823N (300Mbps/隱藏天線/迷你型設計/WPS加密), $259↘$250 ◆ ★
+TP-LINK TL-WN823N (300Mbps/隱藏天線/迷你型設計/WPS加密), $259 ◆ ★
 MERCUSYS水星 MW150US (150Mbps/超迷你型/隱藏天線), $139 ◆ ★
 MERCUSYS水星 MW300UM (300Mbps/迷你型/隱藏天線), $199 ◆ ★
 華碩 USB-N10 NANO B1 (150Mbps/隱藏天線/超迷你設計/鍍金/三年換新), $199 ◆ ★
@@ -6243,14 +6249,14 @@ TOTOLINK N160USM (150Mbps/隱藏天線/超迷你/三年保.一年換新).尾盤,
 TOTOLINK N300UM (300Mbps/隱藏2天線/支援Mac/三年保.一年換新), $200↘$185 ◆ ★
 ❤ Wi-Fi聯盟 新命名方式 802.11n = Wi-Fi 4 , 802.11ac = Wi-Fi 5 , 802.11ax = Wi-Fi 6
 TP-LINK Archer T2U Nano (AC600/雙頻/迷你型/微型設計/鍍金接口不易氧化), $299 ◆ ★ 熱賣
-TP-LINK Archer T2U Plus (AC600/雙頻/5dBi高增益全向性天線), $399↘$390 ◆ ★
+TP-LINK Archer T2U Plus (AC600/雙頻/5dBi高增益全向性天線), $399 ◆ ★
 TP-LINK Archer T2UB Nano (AC600/雙頻/超迷你型/Wi-Fi 藍牙4.2 二合一), $399 ◆ ★
-TP-LINK Archer T3U (AC1300/雙頻 /迷你機身/MU-MIMO/USB3.0), $479 ◆ ★
-TP-LINK Archer T3U NANO(AC1300/雙頻 /超迷你機身/MU-MIMO/USB3.0), $499↘$479 ◆ ★
-TP-LINK Archer T3U PLUS (AC1300/雙頻/高增益天線/MU-MIMO/USB3.0), $599 ◆ ★
-TP-LINK Archer T4U (AC1300/雙頻/高增益天線/WPS加密/MU-MIMO/USB3.0), $499↘$480 ◆ ★
-TP-LINK Archer T9UH (AC1900/雙頻/高增益天線/WPS加密/內附USB3.0底座), $1399↘$1390 ◆ ★
-TP-LINK Archer TX20U Plus (AX1800/Wi-Fi6 雙頻/高增益雙天線/MU-MIMO/USB3.0), $899↘$839 ◆ ★ 熱賣
+TP-LINK Archer T3U (AC1300/雙頻 /迷你機身/MU-MIMO/USB3.0), $499 ◆ ★
+TP-LINK Archer T3U NANO(AC1300/雙頻 /超迷你機身/MU-MIMO/USB3.0), $499 ◆ ★
+TP-LINK Archer T3U PLUS (AC1300/雙頻/高增益天線/MU-MIMO/USB3.0), $639 ◆ ★
+TP-LINK Archer T4U (AC1300/雙頻/高增益天線/WPS加密/MU-MIMO/USB3.0), $499 ◆ ★
+TP-LINK Archer T9UH (AC1900/雙頻/高增益天線/WPS加密/內附USB3.0底座), $1399 ◆ ★
+TP-LINK Archer TX20U Plus (AX1800/Wi-Fi6 雙頻/高增益雙天線/MU-MIMO/USB3.0), $899 ◆ ★ 熱賣
 TP-LINK Archer TX20UH (AX1800/Wi-Fi6 雙頻/高增益天線/付延長底座(1.2米)/USB3.0), $899 ◆
 MERCUSYS水星 MU6H (AC650/雙頻/高增益外接天線/USB網卡), $299 ◆ ★
 華碩 USB-AC51 AC600【150+433M】AC雙頻/隱藏4.56dBi 2天線/三年換新, $499 ◆ ★
@@ -6270,7 +6276,7 @@ TP-LINK Archer TX3000E (AX3000/AX雙頻/PCI-E介面/藍牙5.2/支援Low-Profile,
 華碩 PCE-AX58BT (AX3000/固定2天線/AX雙頻/PCI-E/藍牙5.0), $1990 ◆ ★
 【搭機價】華碩 PCE-AX58BT (AX3000/固定2天線/AX雙頻/PCI-E/藍牙5.0), $1490 ◆ ★
 微星 HERALD-AX INTEL AX210NGW (WI-FI 6E/外接天線/PCI-E/藍牙5.2), $1390 ◆ ★
-TP-LINK UB500 藍牙5.0 微型 USB 接收器/最高可達50m(開放空間)/一年保, $399↘$389 ◆ ★
+TP-LINK UB500 藍牙5.0 微型 USB 接收器/最高可達50m(開放空間)/一年保, $499 ◆ ★
 華碩 USB-BT500 藍牙 5.0 USB收發器 /最高可達40m(開放空間)/三年換新, $599 ◆ ★ 熱賣
 1
 2
@@ -6283,17 +6289,17 @@ TP-LINK UB500 藍牙5.0 微型 USB 接收器/最高可達50m(開放空間)/一�
 9
 10
 20	網路NAS｜網路IPCAM
-共有商品 85 樣，熱賣 2，圖片 85，討論 85，價格異動 35，限時下殺▼2
-TP-LINK Tapo C200 旋轉式家庭安全防護 Wi-Fi 攝影機/1080P/雙向語音溝通, $849 ◆ ★ 熱賣
-TP-LINK Tapo C210 旋轉式家庭安全防護 Wi-Fi 攝影機/3MP 解析度/雙向語音溝通, $999↘$899 ◆ ★
+共有商品 85 樣，熱賣 2，圖片 85，討論 85，價格異動 30，限時下殺▼2
+TP-LINK Tapo C200 旋轉式家庭安全防護 Wi-Fi 攝影機/1080P/雙向語音溝通, $899 ◆ ★ 熱賣
+TP-LINK Tapo C210 旋轉式家庭安全防護 Wi-Fi 攝影機/3MP 解析度/雙向語音溝通, $999 ◆ ★
 TP-LINK Tapo C211 旋轉式家庭安全防護 Wi-Fi 攝影機/3MP 解析度/雙向語音溝通, $999 ◆ ★
-TP-LINK Tapo C220 旋轉式家庭安全防護 Wi-Fi 攝影機/2K 4MP 解析度/雙向語音溝通, $1090 ◆ ★
-TP-LINK Tapo C310 室外安全 Wi-Fi 攝影機/IP66 防水防塵/3MP 解析度/雙向語音溝通, $1199↘$999 ◆ ★
-TP-LINK Tapo C500 戶外安全Wi-Fi 攝影機/IP65 防水防塵/1080P/水平360度/130度垂直, $1499↘$1399 ◆ ★
-TP-LINK Tapo C320WS Wi-Fi 攝影機/防水防塵/2K畫質/雙向語音/全彩夜視, $1799↘$1688 ◆ ★
-TP-LINK Tapo C520WS Wi-Fi 攝影機/防水防塵/2K畫質/360°旋轉式/全彩夜視, $2499↘$1999 ◆ ★
-TP-LINK Tapo C225 旋轉式 AI 家庭防護/Wi-Fi 網路攝影機/360度旋轉移動/2K解析度, $1999↘$1899 ◆ ★
-TP-LINK Tapo C420S2 無線監控/防水防塵/180天電池續航力/2K解析度/夜視全彩/2入組, $5999 ◆ ★
+TP-LINK Tapo C220 旋轉式家庭安全防護 Wi-Fi 攝影機/2K 4MP 解析度/雙向語音溝通, $1199 ◆ ★
+TP-LINK Tapo C310 室外安全 Wi-Fi 攝影機/IP66 防水防塵/3MP 解析度/雙向語音溝通, $1199 ◆ ★
+TP-LINK Tapo C500 戶外安全Wi-Fi 攝影機/IP65 防水防塵/1080P/水平360度/130度垂直, $1599 ◆ ★
+TP-LINK Tapo C320WS Wi-Fi 攝影機/防水防塵/2K畫質/雙向語音/全彩夜視, $1999 ◆ ★
+TP-LINK Tapo C520WS Wi-Fi 攝影機/防水防塵/2K畫質/360°旋轉式/全彩夜視, $2499↘$2299 ◆ ★
+TP-LINK Tapo C225 旋轉式 AI 家庭防護/Wi-Fi 網路攝影機/360度旋轉移動/2K解析度, $1999 ◆ ★
+TP-LINK Tapo C420S2 無線監控/防水防塵/180天電池續航力/2K解析度/夜視全彩/2入組, $6999 ◆ ★
 EZVIZ 螢石 C6N 2MP 智慧攝影機(200萬畫素/1080P/雙向語音/無線WiFi/有線RJ45), $799 ◆ ★
 【雙12優惠組合】EZVIZ 螢石 C6N 2MP 智慧攝影機*2入, $1212 ◆ ★
 EZVIZ 螢石 C6N 4MP 智慧攝影機(400萬畫素/2K畫質/雙向語音/無線WiFi/有線RJ45), $1199↘$899 ◆ ★
@@ -6440,14 +6446,14 @@ HyperX Cloud Stinger 2 無線耳麥(黑)/2.4g/DTS空間音效/降噪麥克風/�
 羅技 G560 電競喇叭(三件式)/有線/藍牙/總輸出功率:120w Rms/Rgb/環繞音效, $5811 ◆ ★ 熱賣
 Creative Stage Air V2 Soundbar 喇叭/藍牙5.3/Usb供電/AUX輸入端口, $1490 ◆ ★ 熱賣
 SteelSeries Arctis Nova Pro Wireless 無線耳機/2.4g-藍牙/Sonar軟體〈限量〉, $9590 ◆ ★ 熱賣
-羅技 G Pro X Wireless 電競耳麥/無線/Lightspeed/50單體/Dts, $4490 ◆ ★ 熱賣
-羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/黑〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣
-羅技 G733 K/DA無線耳機/無線/Pro-G 40單體/輕量化/RGB〈限量贈鬼滅耳機架〉, $3690 ◆ ★ 熱賣
-羅技 G Pro X 2 Lightspeed 無線電競耳機(黑)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣100↓
+羅技 G Pro X Wireless 電競耳麥/無線/Lightspeed/50單體/Dts, $4490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/黑〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 K/DA無線耳機/無線/Pro-G 40單體/輕量化/RGB〈限量贈鬼滅耳機架〉, $3690 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G Pro X 2 Lightspeed 無線電競耳機(黑)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣250↓
 　　↪ 購買羅技 G Pro X 2 Lightspeed 無線電競耳機〈限量贈鬼滅耳機架〉 熱賣
-羅技 G Pro X 2 Lightspeed 無線電競耳機(白)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣100↓
+羅技 G Pro X 2 Lightspeed 無線電競耳機(白)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣250↓
 　　↪ 購買羅技 G Pro X 2 Lightspeed 無線電競耳機〈限量贈鬼滅耳機架〉 熱賣
-羅技 G Pro X 2 Lightspeed 無線電競耳機(桃色)/有線-LS-藍牙/石墨烯單體/Blue Voice技術〈限網單〉, $6490 ★ 熱賣 ↓酷幣100↓
+羅技 G Pro X 2 Lightspeed 無線電競耳機(桃色)/有線-LS-藍牙/石墨烯單體/Blue Voice技術〈限網單〉, $6490 ★ 熱賣 ↓酷幣250↓
 　　↪ 購買羅技 G Pro X 2 Lightspeed 無線電競耳機〈限量贈鬼滅耳機架〉 熱賣
 海盜船 Virtuoso Rgb Wireless 無線耳機(黑)/無線/杜比7.1/Rgb/鋁質頭帶〈限量〉, $2490 ◆ ★ 熱賣
 海盜船 Void Rgb Elite Wireless 電競耳機(黑)/無線/杜比7.1/Rgb/全指向麥克風, $1990 ◆ ★ 熱賣
@@ -6502,7 +6508,7 @@ Razer Nommo V2 X 天狼星 喇叭/有線-藍牙5.0/2個3吋全音域驅動單體
 Razer Nommo V2 天狼星 喇叭/有線-藍牙5.3/2個3吋全音域驅動單體/虛擬7.1/1個5.5吋重低音/Rgb, $8690 ◆ ★
 Razer Nommo V2 PRO 天狼星 喇叭/2個3吋全音域驅動單體/無線重低音/虛擬7.1/Rgb, $13990 ◆ ★
 Razer Leviathan V2 X SoundBar 利維坦巨獸喇叭/Type C供電/藍牙5.0/Rgb, $2988 ◆ ★ 熱賣
-Razer Leviathan V2 利維坦巨獸喇叭/藍牙5.2/THX Spatial Audio/7.1聲道/Rgb, $6888 ◆ ★ 熱賣
+Razer Leviathan V2 利維坦巨獸喇叭/藍牙5.2/THX Spatial Audio/7.1聲道/Rgb, $5888 ◆ ★ 熱賣
 Creative Pebble USB 桌上型喇叭(黑)/有線/4.4W/USB供電, $690 ◆ ★
 Creative Pebble USB 桌上型喇叭(白)/有線/4.4W/USB供電, $690 ◆ ★
 Creative Pebble V2 桌上型喇叭(黑)/有線/總功率 8W/Usb-c供電, $849 ◆ ★
@@ -6556,33 +6562,33 @@ Huawei FreeBuds 5 (珊瑚橙)真無線耳機/藍牙5.2/超磁感澎湃重音單�
 a 單張發票滿2000以上送300 Uber Eats 抵用券, $1 ◆ ★ 熱賣
 b 單筆發票購買任選2件（不含2件以上）滿5000送A10電競耳機一組 送完為止（市值1990）, $1 ◆ ★ 熱賣
 上面優惠 點選右邊 ◆ 至登錄網站登錄 數量有限!!!, $1 ◆ ★ 熱賣
-羅技 H151 (黑)立體聲耳麥/3.5mm/有線/可調式頭帶, $589 ◆ ★ ↓酷幣79↓
+羅技 H151 (黑)立體聲耳麥/3.5mm/有線/可調式頭帶, $589 ◆ ★
 羅技 H340 USB 耳麥/有線/立體聲音質/濾噪麥克風, $850 ◆ ★
 羅技 H390 USB 耳麥/有線-Usb/抗噪音麥克風/音量及靜音線控制裝置, $990 ◆ ★
-羅技 H540 USB 耳麥/有線/雷射微調/皮革耳罩, $1590 ◆ ★ ↓酷幣190↓
-羅技 G335 有線遊戲耳機麥克風/有線/記憶泡棉耳墊/隨插即用/40mm單體/黑, $1290 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G335 有線遊戲耳機麥克風/有線/記憶泡棉耳墊/隨插即用/40mm單體/白, $1290 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G435 Lightspeed 無線遊戲耳機麥克風(黑)/無線-藍牙/輕量化/記憶海綿墊, $1790 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G435 Lightspeed 無線遊戲耳機麥克風(白)/無線-藍牙/輕量化/記憶海綿墊, $1690 ◆ ★ ↓酷幣100↓
-羅技 G435 Lightspeed 無線遊戲耳機麥克風(藍)/無線-藍牙/輕量化/記憶海綿墊, $1690 ◆ ★ ↓酷幣100↓
-羅技 G Pro X 專業電競耳麥/有線/PRO-G 50單體/DTS, $3290 ◆ ★ ↓酷幣300↓
-羅技 G Pro X Wireless 電競耳麥/無線/Lightspeed/50單體/Dts, $5490 ◆ ★ 熱賣 ↓酷幣300↓
-羅技 G Pro X 2 Lightspeed 無線電競耳機(黑)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣300↓
+羅技 H540 USB 耳麥/有線/雷射微調/皮革耳罩, $1590 ◆ ★
+羅技 G335 有線遊戲耳機麥克風/有線/記憶泡棉耳墊/隨插即用/40mm單體/黑, $1290 ◆ ★ 熱賣
+羅技 G335 有線遊戲耳機麥克風/有線/記憶泡棉耳墊/隨插即用/40mm單體/白, $1290 ◆ ★ 熱賣
+羅技 G435 Lightspeed 無線遊戲耳機麥克風(黑)/無線-藍牙/輕量化/記憶海綿墊, $1790 ◆ ★ 熱賣
+羅技 G435 Lightspeed 無線遊戲耳機麥克風(白)/無線-藍牙/輕量化/記憶海綿墊, $1690 ◆ ★
+羅技 G435 Lightspeed 無線遊戲耳機麥克風(藍)/無線-藍牙/輕量化/記憶海綿墊, $1690 ◆ ★
+羅技 G Pro X 專業電競耳麥/有線/PRO-G 50單體/DTS, $3290 ◆ ★ ↓酷幣250↓
+羅技 G Pro X Wireless 電競耳麥/無線/Lightspeed/50單體/Dts, $5490 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G Pro X 2 Lightspeed 無線電競耳機(黑)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣250↓
 　　↪ 購買羅技 G Pro X 2 Lightspeed 無線電競耳機〈限量贈鬼滅耳機架〉 熱賣
-羅技 G Pro X 2 Lightspeed 無線電競耳機(白)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣300↓
+羅技 G Pro X 2 Lightspeed 無線電競耳機(白)/有線-LS-藍牙/石墨烯單體/Blue Voice技術, $6490 ◆ ★ 熱賣 ↓酷幣250↓
 　　↪ 購買羅技 G Pro X 2 Lightspeed 無線電競耳機〈限量贈鬼滅耳機架〉 熱賣
-羅技 G Pro X 2 Lightspeed 無線電競耳機(桃色)/有線-LS-藍牙/石墨烯單體/Blue Voice技術〈限網單〉, $6490 ★ 熱賣 ↓酷幣300↓
+羅技 G Pro X 2 Lightspeed 無線電競耳機(桃色)/有線-LS-藍牙/石墨烯單體/Blue Voice技術〈限網單〉, $6490 ★ 熱賣 ↓酷幣250↓
 　　↪ 購買羅技 G Pro X 2 Lightspeed 無線電競耳機〈限量贈鬼滅耳機架〉 熱賣
-羅技 G535 Wireless 無線電競耳機/Lightspeed 技術/輕量化/40mm單體/Discord認證, $2900 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G535 Wireless 無線電競耳機/Lightspeed 技術/輕量化/40mm單體/Discord認證〈包裝小破損〉, $2790 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G633S 遊戲耳麥/有線/DTS 7.1環繞/RGB/USB+3.5mm, $2990 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/黑〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/白〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/藍〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/紫〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G733 K/DA無線耳機/無線/Pro-G 40單體/輕量化/RGB〈限量贈鬼滅耳機架〉, $3690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G735 無線美型RGB遊戲耳麥(白)/無線-藍牙/40mm單體/輕巧/Rgb〈限量贈鬼滅耳機架〉, $4690 ◆ ★ 熱賣 ↓酷幣100↓
-羅技 G933s 無線RGB電競耳機麥克風/無線-有線/50mm單體/DTS 7.1/Rgb背光, $5490 ◆ ★ ↓酷幣100↓
+羅技 G535 Wireless 無線電競耳機/Lightspeed 技術/輕量化/40mm單體/Discord認證, $2900 ◆ ★ 熱賣
+羅技 G535 Wireless 無線電競耳機/Lightspeed 技術/輕量化/40mm單體/Discord認證〈包裝小破損〉, $2790 ◆ ★ 熱賣
+羅技 G633S 遊戲耳麥/有線/DTS 7.1環繞/RGB/USB+3.5mm, $3090 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/黑〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/白〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/藍〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 無線耳機/無線/Pro-G 40單體/輕量化/RGB/紫〈限量贈鬼滅耳機架〉, $3390 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G733 K/DA無線耳機/無線/Pro-G 40單體/輕量化/RGB〈限量贈鬼滅耳機架〉, $3690 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G735 無線美型RGB遊戲耳麥(白)/無線-藍牙/40mm單體/輕巧/Rgb〈限量贈鬼滅耳機架〉, $4690 ◆ ★ 熱賣 ↓酷幣250↓
+羅技 G933s 無線RGB電競耳機麥克風/無線-有線/50mm單體/DTS 7.1/Rgb背光, $5490 ◆ ★ ↓酷幣250↓
 10/2-12/31購買羅技全品項滿990以上 上傳發票到登錄網頁且登錄成功，即可參加抽獎, $1 ◆ ★ 熱賣
 10/2-12/31購買羅技全品項（不含VC設備及指定組合品）滿指定門檻 登錄成功送好禮【不累贈擇一兌換】, $1 ◆ ★ 熱賣
 a 單張發票滿2000以上送300 Uber Eats 抵用券, $1 ◆ ★ 熱賣
@@ -6984,7 +6990,7 @@ EPSON L6290 雙網四合一 Wi-Fi(列印/影印/掃描/傳真)雙面列印/連�
 9
 10
 28	網路、傳輸線、轉頭｜KVM	
-共有商品 157 樣，熱賣 17，圖片 153，討論 156，價格異動 11，限時下殺▼1
+共有商品 157 樣，熱賣 17，圖片 157，討論 156，價格異動 11，限時下殺▼1
 CAT.5E 1米 支援10/100 Mbps快速傳輸/穩定性高/30天保固, $15 ◆ ★
 CAT.5E 3米 支援10/100 Mbps快速傳輸/穩定性高/30天保固, $30 ◆ ★
 CAT.5E 5米 支援10/100 Mbps快速傳輸/穩定性高/30天保固, $50 ◆ ★
@@ -7030,10 +7036,10 @@ Allite 液態矽膠充電線 USB-C to USB-C / 白 / 1.5M, $466 ◆ ★
 3C Pig【TC-C】 Type-C USB3.2 Gen2 公-公 傳輸線 / 最高支援5A100W /15CM, $250↘$165 ◆ ★
 3C Pig【TC-C+】 Type-C USB3.2 Gen2 公-公 傳輸線 / 最高支援5A100W /1M, $299 ◆ ★
 3C Pig【TC-R1000】Type-C 轉接器 USB-C to RJ45 Gigabit LAN/支援Mac, $399 ◆ ★
-3C Pig【TC-DP200】Type-C to Display Port 1.4 轉接線 / 8K60Hz / 2M, $699 ◆
-3C Pig【TC-DP300】Type-C to Display Port 1.4 轉接線 / 8K60Hz / 3M, $799 ◆
-3C Pig【TC-H200】Type-C to HDMI 轉接線 / 4K60Hz / 2M, $799 ◆
-3C Pig【TC-H300】Type-C to HDMI 轉接線 / 4K60Hz / 3M, $899 ◆
+3C Pig【TC-DP200】Type-C to Display Port 1.4 轉接線 / 8K60Hz / 2M, $699 ◆ ★
+3C Pig【TC-DP300】Type-C to Display Port 1.4 轉接線 / 8K60Hz / 3M, $799 ◆ ★
+3C Pig【TC-H200】Type-C to HDMI 轉接線 / 4K60Hz / 2M, $799 ◆ ★
+3C Pig【TC-H300】Type-C to HDMI 轉接線 / 4K60Hz / 3M, $899 ◆ ★
 Gigastone Type-A to Type-C USB3.1 Gen1 鋁合金 / 黑 / 1.2M / GC-6800B, $149 ◆ ★
 Gigastone Type-C to Type-C 60W充電線 / 白 / 1.5M / CC-7600W▼下殺到 12/31 23:59, $199↘$169 ◆ ★
 Gigastone Type-C to Type-C USB3.2 Gen2 / 100W充電傳輸線 / 黑 /1.5M / CC-7800B, $499 ◆ ★
@@ -7162,20 +7168,20 @@ ATEN VS84【4埠-VGA】最高解析 1920*1440/250 MHz頻寬/最多可堆疊串�
 29	OS+應用軟體｜禮物卡
 共有商品 25 樣，熱賣 2，圖片 24，討論 13，價格異動 2
 ❤ Microsoft Windows 11硬體裝置需支援信賴平台模組 (TPM) 版本 2.0 才行安裝
-Windows 11 中文家用隨機版 64位元, $3990 ◆ ★ ↓酷幣300↓
-Windows 11 中文家用隨機版 64位元 【搭購價】, $3790 ◆ ★ 熱賣 ↓酷幣300↓
-Windows 11 Pro 中文專業隨機版 64位元 (網域/遠端/加密/Hyper-V), $4890 ◆ ★ ↓酷幣300↓
-Windows 11 Pro 中文專業隨機版 64位元 (網域/遠端/加密/Hyper-V)【搭購價】, $4790 ◆ ★ ↓酷幣300↓
+Windows 11 中文家用隨機版 64位元, $3990 ◆ ★
+Windows 11 中文家用隨機版 64位元 【搭購價】, $3790 ◆ ★ 熱賣
+Windows 11 Pro 中文專業隨機版 64位元 (網域/遠端/加密/Hyper-V), $4890 ◆ ★
+Windows 11 Pro 中文專業隨機版 64位元 (網域/遠端/加密/Hyper-V)【搭購價】, $4790 ◆ ★
 ❤ Windows 11 英文家用/專業隨機版 64位元 為客訂商品，約需14個工作日，請先詢問貨況
 Windows 11 英文家用隨機版 64位元【客訂】, $3990 ★
 Windows 11 Pro 英文專業隨機版 64位元 (網域/遠端/加密/Hyper-V)【客訂】, $4990 ★
 ❤ Win11 彩盒版啟用後，需超過90天才可授權移轉第二台電腦上，不能同時啟用兩台電腦
 ❤ Windows 11 彩盒版可移轉，需致電微軟00800-24681-668 #1#2#2#2#2完成移機程序
 ❤ Microsoft Windows 11硬體裝置需支援信賴平台模組 (TPM) 版本 2.0 才行安裝
-Windows 11 中文家用彩盒版 64位元 (USB), $4490↘$4390 ◆ ★ ↓酷幣300↓
-Windows 11 中文家用彩盒版 64位元 (USB) 【搭購價】, $4190 ★ 熱賣 ↓酷幣300↓
-Windows 11 Pro 中文專業彩盒版 64位元 (網域/遠端/加密/Hyper-V/USB), $6790 ◆ ★ ↓酷幣300↓
-Windows 11 Pro 中文專業彩盒版 64位元 (網域/遠端/加密/Hyper-V/USB)【搭購價】, $6690 ◆ ★ ↓酷幣300↓
+Windows 11 中文家用彩盒版 64位元 (USB), $4490↘$4390 ◆ ★
+Windows 11 中文家用彩盒版 64位元 (USB) 【搭購價】, $4190 ★ 熱賣
+Windows 11 Pro 中文專業彩盒版 64位元 (網域/遠端/加密/Hyper-V/USB), $6790 ◆ ★
+Windows 11 Pro 中文專業彩盒版 64位元 (網域/遠端/加密/Hyper-V/USB)【搭購價】, $6690 ◆ ★
 ❤ Windows 11 英文家用/專業彩盒版 64位元 為客訂商品，約需14個工作日，請先詢問貨況
 Windows 11 英文家用彩盒版 64位元【客訂】, $4490 ★
 Windows 11 Pro 英文專業彩盒版 64位元 (網域/遠端/加密/Hyper-V/USB)【客訂】, $6990 ★
@@ -7213,7 +7219,7 @@ Microsoft Xbox GAME PASS 3個月 (限PC), $499
 9
 10
 30	福利品出清	
-共有商品 28 樣，熱賣 4，圖片 28
+共有商品 29 樣，熱賣 8，圖片 29
 Razer Nommo V2 X 天狼星 喇叭/有線-藍牙5.0/2個3吋全音域驅動單體/虛擬7.1【包裝小破損】, $3990 ★
 羅技 G Pro X 2 Lightspeed 無線電競耳機(白)/有線-LS-藍牙/石墨烯單體/【包裝小破損】, $6090 ★
 羅技 G Pro X Superlight 2 無線電競滑鼠(黑色)/混合微動/32000Dpi【包裝小破損】, $4090 ★
@@ -7224,10 +7230,12 @@ Razer Nommo V2 X 天狼星 喇叭/有線-藍牙5.0/2個3吋全音域驅動單體
 微星 GTX1630 VENTUS XS 4G OC(1815MHz/17.8cm)【缺包裝.或無包裝.未使用】, $4490 ★
 微星 N730K-2GD3/OCV5(1006MHz/2G DDR3/14.8cm)【缺包裝.或無包裝.未使用】, $2090 ★
 BenQ BL2480(Plus) (1A1H1P/5ms/IPS/含喇叭)光智慧護眼螢幕【使用痕跡】$2988↘, $2480 ★
-BenQ PD2506Q(1H1P1C/5ms/IPS/含喇叭/HDR400)可昇降.翻轉【拆封品】$13888↘, $11200 ★
+BenQ PD2506Q(1H1P1C/5ms/IPS/含喇叭/HDR400)可昇降.翻轉【拆封品】$13888↘, $11200 ★ 熱賣
 PHILIPS Evnia 27M1N3200Z(2H1P/1ms/IPS/165Hz/無喇叭/FreeSync Premium)【暗點】$3888↘, $3000 ★
+PHILIPS 40B1U5600(1H1P1C/4ms/IPS/120Hz/含喇叭/Adaptive Sync/HDR400)【全新福利.外箱髒汙】$35888↘, $25888 ★
 ACER QG240Y S3(1H1P/1ms/VA/180Hz/無喇叭/FreeSync Premium)原生180Hz電競【僅拆封】$3188↘, $2700 ★
 ACER XV242 F(2H1P/0.1ms/TN/540Hz/含喇叭/FreeSync Premium/HDR400)【活動贈】【使用痕跡】$14888↘, $14000 ★
+　　↪ 買ACER XV242 F 活動贈 Micron Crucial X6 外接PSSD 500G Type-C【價值1200】
 ACER XV272U RV(2H1P/0.5ms/IPS/144Hz/含喇叭/FreeSync Premium/HDR400)【使用痕跡】$6999↘, $6000 ★ 熱賣
 　　↪ ACER XV272U RV 清潔請使用眼鏡布、除塵滾輪清潔。詳情可洽詢ACER服務中心。
 ACER XB273U F(2H1P/0.4ms/IPS/360Hz/含喇叭/G-SYNC/HDR600)超快速IPS面板【使用痕跡】$26900↘, $24000 ★
@@ -7235,10 +7243,10 @@ ACER XV282K KV(2H1P1C/1ms/IPS/144Hz/含喇叭/FreeSync Premium/HDR400)HDMI 2.1�
 ACER Predator X34 GS(2H2P1C/1ms/IPS曲面/180Hz/含喇叭/G-SYNC兼容/HDR400)【使用痕跡】$19999↘, $17700 ★ 熱賣
 MSI MPG321UR-QD(2H1P1C/1ms/IPS/144Hz/無喇叭/G-Sync兼容/HDR600)【使用痕跡】$24900↘, $20400 ★ 熱賣
 三星 U32R591CWC(1H1P/4ms/VA曲面/無喇叭)窄框.PBP分割畫面.白色【使用痕跡】$12488↘, $8800 ★ 熱賣
-三星 S32BG650EC(Odyssey/2H1P/1ms/VA曲/240Hz/含喇叭/FreeSync Premium Pro)【維修紀錄】, $14999 ★
+三星 S32BG650EC(Odyssey/2H1P/1ms/VA曲/240Hz/含喇叭/FreeSync Premium Pro)【維修紀錄】$18900↘, $14999 ★ 熱賣
 　　↪ [維修紀錄] HDMI 2 無反應
-華碩 VA27DQF(1H1P/1ms/IPS/100Hz/含喇叭/Adaptive-Sync)抗閃機種【背蓋暇疵】$3588↘, $3000 ★
-華碩 VG32VQ1B(TUF/2H1P/1ms/VA曲面/165Hz/含喇叭/FreeSync/HDR10)廣色域電競【使用痕跡】$7688↘, $6150 ★
+華碩 VA27DQF(1H1P/1ms/IPS/100Hz/含喇叭/Adaptive-Sync)抗閃機種【背蓋暇疵】$3588↘, $3000 ★ 熱賣
+華碩 VG32VQ1B(TUF/2H1P/1ms/VA曲面/165Hz/含喇叭/FreeSync/HDR10)廣色域電競【使用痕跡】$7688↘, $6150 ★ 熱賣
 華碩 PG27UQR(ROG/2H1P/1ms/IPS/160Hz/無喇叭/FreeSync Premium Pro/HDR600)【使用痕跡】$15888↘, $15000 ★
 華碩 ZENWIFI XT9 (AX7800/AX Mesh/三頻/隱藏6天線/2.5G埠/單入)【拆封品】, $7290 ★
 TP-LINK Deco BE85 (BE22000/三頻/WiFi 7/10GbE*2/2.5GbE*2/三入)【外箱破損】, $44900 ★
